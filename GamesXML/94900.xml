@@ -1,0 +1,6092 @@
+<items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item id="240167" type="boardgame">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/wLlUDVV-wpEnJAkUJliQPv9gNdc=/fit-in/200x150/pic3874747.png</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/_M1FHFGdegqQci0fhtH3QndIcUM=/0x0/pic3874747.png</image>
+                                     				
+				<name sortindex="1" type="primary" value="Hintegers" />
+			
+						                           
+						               													<description>Hintegers is the social game of figuring out what number someone is thinking of. Each turn, the Hint Giver provides a one word hint related to their category, and secretly selects a number 1 through 10. The other players then play a card trying to match the number. Stumped? Use a lifeline! As the Hint Giver, be sure not to give easy hints as only the players that match get one step closer to winning! The object of the game it get down to having only 3 numbers left in your hand, and you get rid of numbers by successfully guessing (or giving a successful hint!) Laugh and Learn in this thought provoking party game, it's as easy as picking a number 1 through 10.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2018" />
+						               				<minplayers value="5" />
+						               				<maxplayers value="10" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result numvotes="0" value="Best" />
+					<result numvotes="0" value="Recommended" />
+					<result numvotes="0" value="Not Recommended" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result numvotes="0" value="Best" />
+					<result numvotes="0" value="Recommended" />
+					<result numvotes="0" value="Not Recommended" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result numvotes="0" value="Best" />
+					<result numvotes="0" value="Recommended" />
+					<result numvotes="0" value="Not Recommended" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result numvotes="0" value="Best" />
+					<result numvotes="0" value="Recommended" />
+					<result numvotes="0" value="Not Recommended" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result numvotes="0" value="Best" />
+					<result numvotes="1" value="Recommended" />
+					<result numvotes="0" value="Not Recommended" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result numvotes="0" value="Best" />
+					<result numvotes="1" value="Recommended" />
+					<result numvotes="0" value="Not Recommended" />
+				</results>					
+			
+		<results numplayers="7">		
+					<result numvotes="1" value="Best" />
+					<result numvotes="0" value="Recommended" />
+					<result numvotes="0" value="Not Recommended" />
+				</results>					
+			
+		<results numplayers="8">		
+					<result numvotes="1" value="Best" />
+					<result numvotes="0" value="Recommended" />
+					<result numvotes="0" value="Not Recommended" />
+				</results>					
+			
+		<results numplayers="9">		
+					<result numvotes="1" value="Best" />
+					<result numvotes="0" value="Recommended" />
+					<result numvotes="0" value="Not Recommended" />
+				</results>					
+			
+		<results numplayers="10">		
+					<result numvotes="1" value="Best" />
+					<result numvotes="0" value="Recommended" />
+					<result numvotes="0" value="Not Recommended" />
+				</results>					
+			
+		<results numplayers="10+">		
+					<result numvotes="0" value="Best" />
+					<result numvotes="1" value="Recommended" />
+					<result numvotes="0" value="Not Recommended" />
+				</results>					
+	</poll> 			               				<playingtime value="20" />
+						               				<minplaytime value="10" />
+						               				<maxplaytime value="20" />
+						               				<minage value="0" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link id="1039" type="boardgamecategory" value="Deduction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="1098" type="boardgamecategory" value="Number" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="1030" type="boardgamecategory" value="Party Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link id="2040" type="boardgamemechanic" value="Hand Management" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link id="69479" type="boardgamedesigner" value="Frank Alberts" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="69482" type="boardgamedesigner" value="Russell Ng" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link id="69482" type="boardgameartist" value="Russell Ng" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link id="25554" type="boardgamepublisher" value="Zafty Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings>
+			<usersrated value="15" />
+			<average value="7.26667" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank bayesaverage="Not Ranked" friendlyname="Board Game Rank" id="1" name="boardgame" type="subtype" value="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.94822" />
+			<median value="0" />
+			<owned value="42" />
+			<trading value="3" />
+			<wanting value="2" />
+			<wishing value="10" />
+			<numcomments value="4" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item id="240172" type="boardgame">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/bFYJtl6GSkRqCoWzwVHAEIKhGzc=/fit-in/200x150/pic3853028.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/WBwyD_mrjPxnvDtITFN01gzl2uY=/0x0/pic3853028.jpg</image>
+                                     				
+				<name sortindex="5" type="primary" value="The Pantheon: The Age of Quest" />
+			
+						                           
+						               													<description>The Pantheon: The Age of Quest is a 2-4 player fantasy card game where Deities and Creatures from every bloodline wage war in epic fashion. Each player is presented with a 78 card pre-constructed deck designed to maximize the full potential of your chosen faction.&amp;#10;&amp;#10;Engage your opponents in awesome table-top game play where you control the fate of God's in head-to-head combat.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2017" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="4+">		
+				</results>					
+	</poll> 			               				<playingtime value="0" />
+						               				<minplaytime value="0" />
+						               				<maxplaytime value="0" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link id="1050" type="boardgamecategory" value="Ancient" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="1002" type="boardgamecategory" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="1010" type="boardgamecategory" value="Fantasy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link id="2018" type="boardgamemechanic" value="Campaign / Battle Card Driven" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="2040" type="boardgamemechanic" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="2015" type="boardgamemechanic" value="Variable Player Powers" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link id="24069" type="boardgamedesigner" value="Nelson Rosa" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link id="66170" type="boardgameartist" value="Shutterstock.com" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link id="4" type="boardgamepublisher" value="(Self-Published)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings>
+			<usersrated value="4" />
+			<average value="8" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank bayesaverage="Not Ranked" friendlyname="Board Game Rank" id="1" name="boardgame" type="subtype" value="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.58114" />
+			<median value="0" />
+			<owned value="8" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="1" />
+			<numcomments value="1" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item id="240175" type="boardgame">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/Z15DMnRk7cb2n4qVDUJ2HaD0t9o=/fit-in/200x150/pic3843873.png</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/4d4CtVWXB3dxuUYThfyoiF98p2w=/0x0/pic3843873.png</image>
+                                     				
+				<name sortindex="1" type="primary" value="VITA MORS" />
+			
+						                               				
+				<name sortindex="1" type="alternate" value="&#32173;&#22612;&#31302;&#26031;" />
+			
+						               													<description>The story of VITA MORS is inspired by the Black Death during the European medieval period. In this game, everyone plays as a Grim Reaper and takes turns being the host who manipulates the Plague Doctor. The host in turn leads the Plague Doctor to visit a patient and make a diagnosis, then all players judge the patient by voting and exercising their privilege. When a player completes the mission of their party, they can claim victory immediately.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2017" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result numvotes="0" value="Best" />
+					<result numvotes="0" value="Recommended" />
+					<result numvotes="2" value="Not Recommended" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result numvotes="0" value="Best" />
+					<result numvotes="0" value="Recommended" />
+					<result numvotes="2" value="Not Recommended" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result numvotes="0" value="Best" />
+					<result numvotes="1" value="Recommended" />
+					<result numvotes="1" value="Not Recommended" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result numvotes="1" value="Best" />
+					<result numvotes="0" value="Recommended" />
+					<result numvotes="0" value="Not Recommended" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result numvotes="1" value="Best" />
+					<result numvotes="0" value="Recommended" />
+					<result numvotes="0" value="Not Recommended" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result numvotes="0" value="Best" />
+					<result numvotes="1" value="Recommended" />
+					<result numvotes="0" value="Not Recommended" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result numvotes="0" value="Best" />
+					<result numvotes="0" value="Recommended" />
+					<result numvotes="2" value="Not Recommended" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="15" />
+						               				<maxplaytime value="30" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result numvotes="0" value="2" />
+					<result numvotes="0" value="3" />
+					<result numvotes="0" value="4" />
+					<result numvotes="0" value="5" />
+					<result numvotes="0" value="6" />
+					<result numvotes="0" value="8" />
+					<result numvotes="0" value="10" />
+					<result numvotes="1" value="12" />
+					<result numvotes="0" value="14" />
+					<result numvotes="0" value="16" />
+					<result numvotes="0" value="18" />
+					<result numvotes="0" value="21 and up" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="1" numvotes="0" value="No necessary in-game text" />
+					<result level="2" numvotes="0" value="Some necessary text - easily memorized or small crib sheet" />
+					<result level="3" numvotes="0" value="Moderate in-game text - needs crib sheet or paste ups" />
+					<result level="4" numvotes="0" value="Extensive use of text - massive conversion needed to be playable" />
+					<result level="5" numvotes="0" value="Unplayable in another language" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link id="1023" type="boardgamecategory" value="Bluffing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="1039" type="boardgamecategory" value="Deduction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="1010" type="boardgamecategory" value="Fantasy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="1035" type="boardgamecategory" value="Medieval" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link id="2040" type="boardgamemechanic" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="2019" type="boardgamemechanic" value="Partnerships" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="2020" type="boardgamemechanic" value="Simultaneous Action Selection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="2017" type="boardgamemechanic" value="Voting" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link id="99740" type="boardgamedesigner" value="Shi Chen" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link id="103100" type="boardgameartist" value="Yawen Cheng" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link id="33413" type="boardgamepublisher" value="Play With Us Design (&#29609;&#32858;&#35373;&#35336;)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings>
+			<usersrated value="35" />
+			<average value="6.94571" />
+			<bayesaverage value="5.53554" />
+
+			<ranks>
+															<rank bayesaverage="5.53554" friendlyname="Board Game Rank" id="1" name="boardgame" type="subtype" value="10172" />
+												</ranks>
+
+			<stddev value="1.17797" />
+			<median value="0" />
+			<owned value="60" />
+			<trading value="2" />
+			<wanting value="6" />
+			<wishing value="25" />
+			<numcomments value="9" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item id="240177" type="boardgame">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/wi3Ve5H4d7jtdZigJ7EMnZfPvUk=/fit-in/200x150/pic4502311.png</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/y06HrLSfkJBUCJejj6bu0XbsM1g=/0x0/pic4502311.png</image>
+                                     				
+				<name sortindex="1" type="primary" value="Se te ve el plumero" />
+			
+						                           
+						               													<description>Party game about personal questions.&amp;#10;The cards show characteristics or traits of a person, about physical, psychological or social questions - For example: To be a successful business-man/woman, to have a wonderful ass, to be the best friend in the room, etc.&amp;#10;You must use your money to bid for the cards you want to fit your objectives.&amp;#10;&amp;mdash;user summary&amp;#10;&amp;#10;El juego m&amp;aacute;s divertido entre amigos &amp;#10;&amp;iquest;Cu&amp;aacute;nto pagar&amp;iacute;as por conseguir tus deseos?&amp;#10;&amp;iexcl;&amp;iexcl;No parar&amp;eacute;is de re&amp;iacute;r!!&amp;#10;Un divertido juego en el que no parar&amp;eacute;is de re&amp;iacute;r en tus reuniones con amigos, que, adem&amp;aacute;s, os aportar&amp;aacute; un mensaje apasionante. F&amp;oacute;rjate una nueva vida, una nueva personalidad, comprando por medio de una &amp;iexcl;divertida subasta! virtudes, capacidades, rasgos que sacar&amp;aacute;n a relucir vuestras preferencias. &amp;iexcl;Desenmascararos, veros los Plumeros!, te sorprender&amp;aacute;s de las preferencias de tus amigos. Cu&amp;aacute;nto pagar&amp;iacute;as por. &amp;iquest;Tener un culo imponente?, &amp;iquest;Heredar una gran fortuna? &amp;iquest;Ser el m&amp;aacute;s sexy de la discoteca? &amp;iquest;Ser un empresario de &amp;eacute;xito? . &amp;iquest;Seguimos? El juego tiene un final sorprendete &amp;iexcl;&amp;iexcl;desc&amp;uacute;brelo!!&amp;#10;&amp;mdash;description from the publisher&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2013" />
+						               				<minplayers value="4" />
+						               				<maxplayers value="10" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="10+">		
+				</results>					
+	</poll> 			               				<playingtime value="20" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="20" />
+						               				<minage value="16" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll> 			      			 			      			
+
+			      				
+		 			
+
+			
+		
+					<link id="2012" type="boardgamemechanic" value="Auction/Bidding" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link id="33687" type="boardgamepublisher" value="Codrilo Verde" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings>
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank bayesaverage="Not Ranked" friendlyname="Board Game Rank" id="1" name="boardgame" type="subtype" value="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="2" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="1" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item id="240182" type="boardgame">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/_4vQ04lC9CFhr9xFT_fHxkQKmNE=/fit-in/200x150/pic4367934.png</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/Vm8Uu0xCLRKoOb_UZ5MYxlnPGR8=/0x0/pic4367934.png</image>
+                                     				
+				<name sortindex="1" type="primary" value="Dados de f&#250;tbol" />
+			
+						                           
+						               													<description>Football dice.&amp;#10;Play soccer with 4 dice.&amp;#10;You can throw your dice 3 times and choose wich one to get or to reroll. You need results with the color of your team, and one die with corner, penalty or goal symbol. After 3 throws, your turn is over.&amp;#10;You must take notes fo the scorings. The player who scores most goals will be the winner.&amp;#10;&amp;#10;                                                                                                            &amp;#10;                                                                                                        &amp;#10;                                                                                                    &amp;#10;                                                                                                &amp;#10;                                                                                            &amp;#10;                                                                                        &amp;#10;                                                                                    &amp;#10;                                                                                &amp;#10;                                                                            &amp;#10;                                                                        &amp;#10;                                                                    &amp;#10;                                                                &amp;#10;                                                            &amp;#10;                                                        &amp;#10;                                                    &amp;#10;                                                &amp;#10;                                            &amp;#10;                                        &amp;#10;                                    &amp;#10;                                &amp;#10;                            &amp;#10;                        &amp;#10;                    &amp;#10;                &amp;#10;            &amp;#10;        &amp;#10;    &amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;Juega al f&amp;uacute;tbol con 4 dados.&amp;#10;Con toda la emoci&amp;oacute;n del f&amp;uacute;tbol. Goles, penaltis, c&amp;oacute;rners y faltas.&amp;#10;Juega con tus amigos y amigas creando vuestras propias ligas. Es muy divertido. No podr&amp;aacute;s parar de jugar. Se venden con una bolsita para que se puedan llevar c&amp;oacute;modamente a cualquier parte y no se pierdan.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2017" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="2+">		
+				</results>					
+	</poll> 			               				<playingtime value="10" />
+						               				<minplaytime value="10" />
+						               				<maxplaytime value="10" />
+						               				<minage value="6" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="6" numvotes="1" value="No necessary in-game text" />
+					<result level="7" numvotes="0" value="Some necessary text - easily memorized or small crib sheet" />
+					<result level="8" numvotes="0" value="Moderate in-game text - needs crib sheet or paste ups" />
+					<result level="9" numvotes="0" value="Extensive use of text - massive conversion needed to be playable" />
+					<result level="10" numvotes="0" value="Unplayable in another language" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link id="1017" type="boardgamecategory" value="Dice" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="1038" type="boardgamecategory" value="Sports" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link id="2072" type="boardgamemechanic" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="2661" type="boardgamemechanic" value="Press Your Luck" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link id="5551" type="boardgamefamily" value="Sports: Football / Soccer" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link id="105067" type="boardgamedesigner" value="Fernando Garc&#237;a" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link id="37852" type="boardgamepublisher" value="WeebleGames" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings>
+			<usersrated value="1" />
+			<average value="6" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank bayesaverage="Not Ranked" friendlyname="Board Game Rank" id="1" name="boardgame" type="subtype" value="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="6" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="1" />
+			<numcomments value="1" />
+			<numweights value="1" />
+			<averageweight value="1" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item id="240183" type="boardgame">
+                                     				
+				<name sortindex="1" type="primary" value="Dados de baloncesto" />
+			
+						                           
+						               													<description>Basketball dice.&amp;#10;Play basketball with 4 dice. You can throw your dice 3 times and choose wich one to get or to reroll. You need results with the color of your team, and one die with double or triple basket symbol. After 3 throws, your turn is over.&amp;#10;You must take notes of the scoring.&amp;#10;After a number of rounds, the player who scores most points will be the winner.&amp;#10;&amp;#10;                                                                                                            &amp;#10;                                                                                                        &amp;#10;                                                                                                    &amp;#10;                                                                                                &amp;#10;                                                                                            &amp;#10;                                                                                        &amp;#10;                                                                                    &amp;#10;                                                                                &amp;#10;                                                                            &amp;#10;                                                                        &amp;#10;                                                                    &amp;#10;                                                                &amp;#10;                                                            &amp;#10;                                                        &amp;#10;                                                    &amp;#10;                                                &amp;#10;                                            &amp;#10;                                        &amp;#10;                                    &amp;#10;                                &amp;#10;                            &amp;#10;                        &amp;#10;                    &amp;#10;                &amp;#10;            &amp;#10;        &amp;#10;    &amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;Juega al baloncesto con 4 dados&amp;#10;Con toda la emoci&amp;oacute;n del baloncesto. Canastas, triples,  faltas y tiros libres.&amp;#10;Juega con tus amigos y amigas creando vuestras propias ligas. Es muy divertido. No podr&amp;aacute;s parar de jugar. Se venden con una bolsita para que se puedan llevar c&amp;oacute;modamente a cualquier parte y no se pierdan.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2017" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="2+">		
+				</results>					
+	</poll> 			               				<playingtime value="10" />
+						               				<minplaytime value="10" />
+						               				<maxplaytime value="10" />
+						               				<minage value="6" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link id="1017" type="boardgamecategory" value="Dice" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="1038" type="boardgamecategory" value="Sports" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link id="2072" type="boardgamemechanic" value="Dice Rolling" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link id="5574" type="boardgamefamily" value="Sports: Basketball" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link id="105067" type="boardgamedesigner" value="Fernando Garc&#237;a" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link id="37852" type="boardgamepublisher" value="WeebleGames" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings>
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank bayesaverage="Not Ranked" friendlyname="Board Game Rank" id="1" name="boardgame" type="subtype" value="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="3" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="1" />
+			<numcomments value="1" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item id="240184" type="boardgame">
+                                     				
+				<name sortindex="1" type="primary" value="Dados de golf" />
+			
+						                           
+						               													<description>Golf dice.&amp;#10;Play golf with 5 dice.&amp;#10;One die shows the hole objective. You can throw your dice and choose wich one to get or to reroll. You need to reach the distance shown on the objective die, and a blue or green flag depending of the objective. When you reach the objective, you compare your number of throws with the par of the hole and score points consequently.&amp;#10;You must take notes fo the scorings. The player who scores less points will be the winner.&amp;#10;&amp;#10;                                                                                                            &amp;#10;                                                                                                        &amp;#10;                                                                                                    &amp;#10;                                                                                                &amp;#10;                                                                                            &amp;#10;                                                                                        &amp;#10;                                                                                    &amp;#10;                                                                                &amp;#10;                                                                            &amp;#10;                                                                        &amp;#10;                                                                    &amp;#10;                                                                &amp;#10;                                                            &amp;#10;                                                        &amp;#10;                                                    &amp;#10;                                                &amp;#10;                                            &amp;#10;                                        &amp;#10;                                    &amp;#10;                                &amp;#10;                            &amp;#10;                        &amp;#10;                    &amp;#10;                &amp;#10;            &amp;#10;        &amp;#10;    &amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;Juega un partido de golf con 5 dados&amp;#10;Con toda la emoci&amp;oacute;n de un partido de golf. Lanzamientos, distancias, hoyos, pares, birdies y bogeys.&amp;#10;Juega con tus amigos y amigas creando vuestros propios partidos. Es muy divertido. No podr&amp;aacute;s parar de jugar. Se venden con una bolsita para que se puedan llevar c&amp;oacute;modamente a cualquier parte y no se pierdan.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2017" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="2+">		
+				</results>					
+	</poll> 			               				<playingtime value="10" />
+						               				<minplaytime value="10" />
+						               				<maxplaytime value="10" />
+						               				<minage value="6" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link id="1017" type="boardgamecategory" value="Dice" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="1038" type="boardgamecategory" value="Sports" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link id="2072" type="boardgamemechanic" value="Dice Rolling" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link id="5652" type="boardgamefamily" value="Sports: Golf" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link id="105067" type="boardgamedesigner" value="Fernando Garc&#237;a" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link id="37852" type="boardgamepublisher" value="WeebleGames" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings>
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank bayesaverage="Not Ranked" friendlyname="Board Game Rank" id="1" name="boardgame" type="subtype" value="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="3" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="1" />
+			<numcomments value="1" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item id="240187" type="boardgame">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/e4EIy61QFEA-wChWoRXVKeZNPoA=/fit-in/200x150/pic3860065.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/BqqZPQRScCxWkQnG6qYhha1FO3E=/0x0/pic3860065.jpg</image>
+                                     				
+				<name sortindex="1" type="primary" value="Cha-cha-boo!!" />
+			
+						                           
+						               													<description>Cha Cha Boo is a card game that combines strategy, chance and balance. During their go, each player must decide how to distribute the different monsters that are dealt, among the players. They must place the cards, forming a steady row without any of them falling. The player that gets the most monsters is the winner, but don't forget that some monsters can also make you lose points.&amp;#10;&amp;#10;&amp;#10;                                                                                                            &amp;#10;                                                                                                        &amp;#10;                                                                                                    &amp;#10;                                                                                                &amp;#10;                                                                                            &amp;#10;                                                                                        &amp;#10;                                                                                    &amp;#10;                                                                                &amp;#10;                                                                            &amp;#10;                                                                        &amp;#10;                                                                    &amp;#10;                                                                &amp;#10;                                                            &amp;#10;                                                        &amp;#10;                                                    &amp;#10;                                                &amp;#10;                                            &amp;#10;                                        &amp;#10;                                    &amp;#10;                                &amp;#10;                            &amp;#10;                        &amp;#10;                    &amp;#10;                &amp;#10;            &amp;#10;        &amp;#10;    &amp;#10;&amp;#10;&amp;#10;Coloca en equilibrio las divertidas cartas de monstruos marchosos.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2016" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="99" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="30+">		
+				</results>					
+	</poll> 			               				<playingtime value="0" />
+						               				<minplaytime value="0" />
+						               				<maxplaytime value="0" />
+						               				<minage value="7" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link id="1002" type="boardgamecategory" value="Card Game" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link id="5615" type="boardgamefamily" value="Monsters" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link id="8045" type="boardgamedesigner" value="Josep M. Allu&#233;" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="34352" type="boardgamedesigner" value="Dani G&#243;mez" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link id="5314" type="boardgamepublisher" value="Cayro Juegos" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings>
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank bayesaverage="Not Ranked" friendlyname="Board Game Rank" id="1" name="boardgame" type="subtype" value="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="2" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="1" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item id="240189" type="boardgame">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/8PZu5qTBunvM8cHdMgxeGXqvZDA=/fit-in/200x150/pic3860067.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/xYQ0CuMdL1sa3sFJpVDBPl0R_fc=/0x0/pic3860067.jpg</image>
+                                     				
+				<name sortindex="1" type="primary" value="Co-Co Pio" />
+			
+						                           
+						               													<description>Co Co Pio is a card game where you have to be the first to make sure your chickens get three chicks. This involves laying eggs and protecting your farm while robbing your fellow players' eggs and chicks. Don't take your eyes off the ball or your ones will be snatched too!&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2016" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="99" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="30+">		
+				</results>					
+	</poll> 			               				<playingtime value="0" />
+						               				<minplaytime value="0" />
+						               				<maxplaytime value="0" />
+						               				<minage value="6" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link id="1089" type="boardgamecategory" value="Animals" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link id="22783" type="boardgamefamily" value="Admin: Better Description Needed!" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="7535" type="boardgamefamily" value="Animals: Chickens" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link id="8045" type="boardgamedesigner" value="Josep M. Allu&#233;" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="34352" type="boardgamedesigner" value="Dani G&#243;mez" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link id="5314" type="boardgamepublisher" value="Cayro Juegos" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings>
+			<usersrated value="1" />
+			<average value="6" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank bayesaverage="Not Ranked" friendlyname="Board Game Rank" id="1" name="boardgame" type="subtype" value="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="4" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="1" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item id="240190" type="boardgame">
+                                     				
+				<name sortindex="1" type="primary" value="Hollywood Haiku: a Game of Film Trivia and Bad Poetry &#8211; Classics" />
+			
+						                           
+						               													<description>Movie trivia with an element of area control - the sooner you answer the better! Correct answers always rewarded. Clues to over 1,100 films. For 2-6 players/teams. Three different versions geared to film fans of different ages: Classics, Silver Screen, and Millenium.&amp;#10;&amp;#10;Mechanics: Read clues to the other players. Each clue is written as a haiku. Players write answers on white boards &amp;ndash; once the white board is placed on the game board there&amp;rsquo;s no changing your answer.  The quicker you can answer correctly the better off you are. Place markers on one of the seven Hollywood stars on the board, each representing a different film category (each version includes action/adventure, comedy, drama, sci-fi, horror &amp;amp; suspense, fantasy; and one other that differs in each version). Or ,draw Bonus Objective cards for a chance to earn even more points for reaching goals such as having the most markers in a given category or for having markers in all the categories. &amp;#10;Game ends as soon as any player places 17 markers. Players get one point for each marker placed, and additional points for accomplishing Bonus Objectives.&amp;#10;&amp;#10;&amp;mdash;description from the designer&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="0" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="6+">		
+				</results>					
+	</poll> 			               				<playingtime value="45" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="45" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link id="1030" type="boardgamecategory" value="Party Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="1027" type="boardgamecategory" value="Trivia" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link id="2080" type="boardgamemechanic" value="Area Control / Area Influence" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link id="22184" type="boardgamefamily" value="Admin: Unreleased Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link id="105068" type="boardgamedesigner" value="Timothy R. Smith" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link id="105068" type="boardgameartist" value="Timothy R. Smith" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link id="4" type="boardgamepublisher" value="(Self-Published)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings>
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank bayesaverage="Not Ranked" friendlyname="Board Game Rank" id="1" name="boardgame" type="subtype" value="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="0" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item id="240196" type="boardgame">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/GofC4TJ-tnDp8yt2Snxig1DVJSY=/fit-in/200x150/pic4314964.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/hOIwDJJBUrTIsfPjRV-DJaWdayA=/0x0/pic4314964.jpg</image>
+                                     				
+				<name sortindex="1" type="primary" value="Betrayal Legacy" />
+			
+						                           
+						               													<description>Betrayal Legacy marries the concept of Betrayal at House on the Hill &amp;mdash; exploring a haunted mansion &amp;mdash; with the permanency and multi-game storytelling exhibited by Daviau's Risk Legacy and other legacy games that followed. Betrayal Legacy consists of a prologue and a thirteen-chapter story that takes place over decades. Players represent families, with specific members of a family participating in one story, then perhaps an older version of those characters (assuming they lived) or their descendants showing up in later stories.&amp;#10;&amp;#10;Why would people keep exploring a haunted mansion for decade after decade, especially when horrible things happen there? Curiosity, I suppose, or perhaps an ignorant boldness that comes from the belief that we know better than those who have come before. Look at all that we've learned, marvel at the tools we have at hand! Surely we'll all exit safely this time...&amp;#10;&amp;#10;As with other Betrayal titles, the game is narratively-driven, with elements that record the history of your specific games. The tools mentioned earlier, for example, become attached to specific families. This isn't just a bucket; it's my bucket, the one my grandpappy used to feed his family's pigs when he was a boy, and while you can certainly use that bucket, I know how to wield it best from the time he spent teaching me how to slop. Yes, it's an heirloom bucket, and when kept in the family, I get a bonus for using it.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2018" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="25">
+			
+		<results numplayers="1">		
+					<result numvotes="0" value="Best" />
+					<result numvotes="1" value="Recommended" />
+					<result numvotes="17" value="Not Recommended" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result numvotes="0" value="Best" />
+					<result numvotes="1" value="Recommended" />
+					<result numvotes="17" value="Not Recommended" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result numvotes="0" value="Best" />
+					<result numvotes="16" value="Recommended" />
+					<result numvotes="3" value="Not Recommended" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result numvotes="11" value="Best" />
+					<result numvotes="12" value="Recommended" />
+					<result numvotes="0" value="Not Recommended" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result numvotes="15" value="Best" />
+					<result numvotes="5" value="Recommended" />
+					<result numvotes="1" value="Not Recommended" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result numvotes="0" value="Best" />
+					<result numvotes="0" value="Recommended" />
+					<result numvotes="14" value="Not Recommended" />
+				</results>					
+	</poll> 			               				<playingtime value="90" />
+						               				<minplaytime value="45" />
+						               				<maxplaytime value="90" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="6">
+			<results>		
+					<result numvotes="0" value="2" />
+					<result numvotes="0" value="3" />
+					<result numvotes="0" value="4" />
+					<result numvotes="0" value="5" />
+					<result numvotes="0" value="6" />
+					<result numvotes="0" value="8" />
+					<result numvotes="0" value="10" />
+					<result numvotes="4" value="12" />
+					<result numvotes="2" value="14" />
+					<result numvotes="0" value="16" />
+					<result numvotes="0" value="18" />
+					<result numvotes="0" value="21 and up" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="11" numvotes="0" value="No necessary in-game text" />
+					<result level="12" numvotes="0" value="Some necessary text - easily memorized or small crib sheet" />
+					<result level="13" numvotes="0" value="Moderate in-game text - needs crib sheet or paste ups" />
+					<result level="14" numvotes="2" value="Extensive use of text - massive conversion needed to be playable" />
+					<result level="15" numvotes="0" value="Unplayable in another language" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link id="1022" type="boardgamecategory" value="Adventure" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="1020" type="boardgamecategory" value="Exploration" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="1024" type="boardgamecategory" value="Horror" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="1047" type="boardgamecategory" value="Miniatures" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link id="2023" type="boardgamemechanic" value="Cooperative Play" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="2072" type="boardgamemechanic" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="2676" type="boardgamemechanic" value="Grid Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="2814" type="boardgamemechanic" value="Hidden Traitor" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="2011" type="boardgamemechanic" value="Modular Board" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="2685" type="boardgamemechanic" value="Player Elimination" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="2028" type="boardgamemechanic" value="Role Playing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="2027" type="boardgamemechanic" value="Storytelling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="2002" type="boardgamemechanic" value="Tile Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link id="24281" type="boardgamefamily" value="Campaign Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="25404" type="boardgamefamily" value="Legacy" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link id="10547" inbound="true" type="boardgameimplementation" value="Betrayal at House on the Hill" />
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link id="442" type="boardgamedesigner" value="Rob Daviau" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="75911" type="boardgamedesigner" value="Noah Cohen" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="80624" type="boardgamedesigner" value="JR Honeycutt" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="2276" type="boardgamedesigner" value="Ryan Miller" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="80920" type="boardgamedesigner" value="Brian Neff" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="27343" type="boardgamedesigner" value="Andrew Veen" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link id="12658" type="boardgameartist" value="Scott Okumura" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="90054" type="boardgameartist" value="Ben Oliver" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link id="4871" type="boardgamepublisher" value="Avalon Hill Games, Inc." />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings>
+			<usersrated value="1052" />
+			<average value="8.22099" />
+			<bayesaverage value="6.63816" />
+
+			<ranks>
+															<rank bayesaverage="6.63816" friendlyname="Board Game Rank" id="1" name="boardgame" type="subtype" value="726" />
+																				<rank bayesaverage="7.00627" friendlyname="Thematic Rank" id="5496" name="thematic" type="family" value="118" />
+												</ranks>
+
+			<stddev value="1.64177" />
+			<median value="0" />
+			<owned value="3465" />
+			<trading value="15" />
+			<wanting value="248" />
+			<wishing value="2095" />
+			<numcomments value="253" />
+			<numweights value="26" />
+			<averageweight value="2.8462" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item id="240201" type="boardgame">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/suamMnQe8hM9u1dFv4RSSEed0zk=/fit-in/200x150/pic3970237.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/jc8DDmoeIthfLiefnBEhYl1aWow=/0x0/pic3970237.jpg</image>
+                                     				
+				<name sortindex="1" type="primary" value="Trumpolicy" />
+			
+						                           
+						               													<description>WHAT KIND OF A SOCIETY DO YOU WANT?&amp;#10;&amp;#10;Enjoy a friendly board game while having stimulating conversation on the most relevant issues of the day. The game may be played with individual competitors or as two competing teams (2 or 3 players per team). Players or teams roll the dice to move around the board to try to secure a set of social policies with assigned values.&amp;#10;&amp;#10;Gameplay: Each player starts with 100 political chits and earns more when they visit the White House. They may also use their political chits by placing a deposit on those policies they wish to prevent others from securing. The team format is set up as Democratic versus Republican policies, with each team having to secure the requisite value of their party&amp;rsquo;s policies (blue versus red squares) in order to win the game. As players move around the board they may draw Twitter cards which may adjust their political chit totals or send them to different policy squares or to the media scrum or senate hearings squares which might impede their progress.&amp;#10;&amp;#10;Objective: The first player or team to secure the requisite value of policies wins the game.&amp;#10;&amp;#10;Dare to play this game with your family and friends and find out what they really think!&amp;#10;&amp;#10;&amp;mdash;description from the publisher&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2017" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="6+">		
+				</results>					
+	</poll> 			               				<playingtime value="90" />
+						               				<minplaytime value="45" />
+						               				<maxplaytime value="90" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link id="1001" type="boardgamecategory" value="Political" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link id="2035" type="boardgamemechanic" value="Roll / Spin and Move" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link id="4" type="boardgamepublisher" value="(Self-Published)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings>
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank bayesaverage="Not Ranked" friendlyname="Board Game Rank" id="1" name="boardgame" type="subtype" value="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="1" />
+			<trading value="0" />
+			<wanting value="1" />
+			<wishing value="1" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item id="240202" type="boardgame">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/eN4PK3PsdHnaO9mVV5WpqHgrNTI=/fit-in/200x150/pic4019910.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/44fcAZqEufEw1fecHgpU8fh3SMM=/0x0/pic4019910.jpg</image>
+                                     				
+				<name sortindex="4" type="primary" value="La Guerre-Eclair" />
+			
+						                           
+						               													<description>This hidden set-up war game is an unusual WWII adaptation of the classic L'Attaque. What makes it most unusual is that the rules are dated 11/44, which means it must have been one of the first French games published after the liberation.&amp;#10;&amp;#10;This is a more complex game than L'Attaque or its successor Stratego. Its name translates as &amp;quot;The Lightning War&amp;quot; (or Blitzkrieg), and this is reflected in the mix of pieces.&amp;#10;&amp;#10;Whereas L'Attaque and its successor Stratego simply used numerically ranked pieces, this game includes a host of WWII-era innovations as well, with pieces representing parachutists, bombers, anti-aircraft guns, delayed-action bombs, flying bombs and a tanker-truck that must survive to keep the bombers flying. Missing from the mix is any kind of armored unit, but there are &amp;quot;magnetic fences&amp;quot; that somehow disable the engines of aeroplanes.&amp;#10;&amp;#10;Movement and combat is much more flexible than in the basic L'Attaque. Pieces may move in any direction, including diagonally, and may attack any piece orthogonally adjacent. To win, players must capture both the opponent's flag and its &amp;quot;secret plan&amp;quot;.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1944" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="2+">		
+				</results>					
+	</poll> 			               				<playingtime value="0" />
+						               				<minplaytime value="0" />
+						               				<maxplaytime value="0" />
+						               				<minage value="0" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link id="1019" type="boardgamecategory" value="Wargame" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="1049" type="boardgamecategory" value="World War II" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link id="2676" type="boardgamemechanic" value="Grid Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="2016" type="boardgamemechanic" value="Secret Unit Deployment" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link id="37854" type="boardgamepublisher" value="Debros Fr&#232;res" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings>
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank bayesaverage="Not Ranked" friendlyname="Board Game Rank" id="1" name="boardgame" type="subtype" value="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="1" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item id="240220" type="boardgame">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/C6jqkyc6Ioyte8eoVcK_uObYLS8=/fit-in/200x150/pic4053873.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/-QhhVDGpS7EbkPmkoHTDIsZQeD8=/0x0/pic4053873.jpg</image>
+                                     				
+				<name sortindex="1" type="primary" value="Gank" />
+			
+						                           
+						               													<description>Gank is what a MOBA video game looks like when you convert it for the tabletop with euro-design. You don't push around thousands of miniatures on a map with hundreds of spaces in a grid or a hex format. You don't see hundreds of soldiers scattered across the battlefield on the various lanes.&amp;#10;&amp;#10;What you do see, are still the iconic 3 lanes that each lead to both your base and your opponent's. But these are very simplified and there are only 7 spaces on each of these lanes, which really act more as tracks. There are no actual soldier miniatures, but there is a frontline marker that represents the space at which each lane is being contested at.&amp;#10;&amp;#10;The rules are still the same for a MOBA video game, in that you still try to break your opponent's base before he breaks yours. You can also win by killing his Heroes multiple times (they will always return though) and eventually reduce his Morale to zero, causing him to 'Call GG' and losing the game. The third way to win the game is to collect 10 different forms of crystals known as Celestium - this allows you to fuel the Celestial Cannon and one-shot your opponent's base all the way from your own base!&amp;#10;&amp;#10;As for Hero miniatures, you have an option to make your game beautiful and get the 3D miniature representatives of your Heroes, or you can simply choose to use the more affordable alternative where your Heroes are cards in your hand. Either way, you never ever push any Hero around on the battlefield itself. Instead you play with a selected team of 5 Heroes, each representing a different role (Carry, DPS, Utility, Tank, Support) from your hand onto the table. (If you are using the premium miniatures for your Heroes, your hand is instead represented by a Reserve Row where they stand in all their 3D glory, and they are played onto an Active Column Track.)&amp;#10;&amp;#10;The full action of the battle is represented by a pyramid-shaped layout of cards that you and your opponents take turns to take cards from - starting from the bottom row. There are 5 types of cards, namely Farming, Attacking, Pushing and Treasure cards. Depending on the role you play, you will also pick the cards differently. For example, the Tank can only take 1 card but does not take any damage from Farming cards (which others normally do). The Carry allows you to take 1 card, and then 1 card immediately on top of it (this makes your Carry the most powerful role since it can access the higher tier cards faster) or the Utility Hero which takes any 2 cards in a row, as long as they are different types. Sometimes on the cards, there are Celestium crystals to be collected, or materials to be farmed (usually from Farming cards) where you can later combine with Item Recipes to create powerful equipment for your Heroes.&amp;#10;&amp;#10;Each Hero you play generally has 2 skills, one of which requires mana to perform. There is a 3rd skill that unlocks for them when they level up (there's only 2 levels in the game, so each Hero can only level up once) When you play that Hero out, aside from doing the action of the card(s) you pick from the pyramid, your Hero may trigger one or more of its skills to further change the scape of the battlefield.&amp;#10;&amp;#10;The game is played in rounds, with each round ending when the top card on the pyramid is taken. At the end of each round, there is a Shopping Phase, where players will play mind games against each other with their gold available - you can purchase reinforcements to push certain lanes in your favor! All purchases are secret until players are done with their shopping and then the choices are revealed.&amp;#10;&amp;#10;This game also features a 4 player mode of 2v2 where each player controls 4 heroes instead of 5, making it 8 heroes per team instead of the usual 5. The card pool is also larger by 5 cards per round, but all else stays the same and Gold, Materials and Crystals are shared in a team. Note that the 2v2 game mode is extremely fun and intense, and is NOT an afterthought created for the sake of better sales of the game.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2019" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="4+">		
+				</results>					
+	</poll> 			               				<playingtime value="60" />
+						               				<minplaytime value="45" />
+						               				<maxplaytime value="60" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link id="1010" type="boardgamecategory" value="Fantasy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link id="2080" type="boardgamemechanic" value="Area Control / Area Influence" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="2040" type="boardgamemechanic" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="2004" type="boardgamemechanic" value="Set Collection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="2015" type="boardgamemechanic" value="Variable Player Powers" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link id="77967" type="boardgamedesigner" value="Dominic Michael H." />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link id="69091" type="boardgameartist" value="Darren Tan" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link id="28143" type="boardgamepublisher" value="Medieval Lords" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings>
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank bayesaverage="Not Ranked" friendlyname="Board Game Rank" id="1" name="boardgame" type="subtype" value="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="1" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="2" />
+			<numcomments value="2" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item id="240221" type="boardgame">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/CdpLh6f02raIHkSELys0S3309VI=/fit-in/200x150/pic3845161.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/nukSNMQPK6HbOVB-HLLLORcksv0=/0x0/pic3845161.jpg</image>
+                                     				
+				<name sortindex="1" type="primary" value="Neuro Match" />
+			
+						                           
+						               													<description>Pairs of cards are laid out on the table. One card in each pair shows a body movement/gesture and a phrase, the other one a letter or number. Some of these pairs are open, some are concealed after everyone had a look at them. During the game, additional pairs are added.&amp;#10;Players take turns flipping open cards from a personal pile of cards. When a letter or number appears that is in one of the pairs, everyone has to either do the gesture or say the phrase or both (depending on the agreed difficulty level) on the matching card. The last player to do this has to take all the open cards. The first player to get rid of all their cards is the winner.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2013" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="10" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="10+">		
+				</results>					
+	</poll> 			               				<playingtime value="0" />
+						               				<minplaytime value="0" />
+						               				<maxplaytime value="0" />
+						               				<minage value="6" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link id="1032" type="boardgamecategory" value="Action / Dexterity" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="1030" type="boardgamecategory" value="Party Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link id="2047" type="boardgamemechanic" value="Memory" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link id="105076" type="boardgamedesigner" value="Andrea &#193;ngel" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="95598" type="boardgamedesigner" value="Guillermo Solano" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link id="105077" type="boardgameartist" value="Diego Agudelo" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link id="36250" type="boardgamepublisher" value="RingBrain" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings>
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank bayesaverage="Not Ranked" friendlyname="Board Game Rank" id="1" name="boardgame" type="subtype" value="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="2" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item id="240223" type="boardgame">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/dnB459HJFTqbtlA4H7nZMw3PKEg=/fit-in/200x150/pic3868265.png</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/KcZ6ei2Gq-hQV9Abw9RQE26u2Hc=/0x0/pic3868265.png</image>
+                                     				
+				<name sortindex="1" type="primary" value="5 sekund bez cenzury" />
+			
+						                           
+						               													<description>In the game 5 seconds without censorship questions were prepared for adult players, and the answer to them will not be without ambiguous allusions.&amp;#10;&amp;nbsp;&amp;#10;It seems easy to mention three uses for your tongue - but can you do it in 5 seconds when you just mess up your tongue? The rest of the players are watching you, waiting impatiently for your response, and time is running out! Just throw it away!&amp;#10;&amp;nbsp;&amp;#10;The game is for adult players.&amp;#10;&amp;#10;&amp;#10;W grze 5 sekund bez cenzury pytania zosta&amp;#197;&amp;#130;y przygotowane z my&amp;#197;&amp;#155;l&amp;#196;&amp;#133; o pe&amp;#197;&amp;#130;noletnich graczach, a odpowiedzi na nie nie obejd&amp;#196;&amp;#133; si&amp;#196;&amp;#153; bez dwuznacznych aluzji.&amp;#10; Z pozoru &amp;#197;&amp;#130;atwe wydaje si&amp;#196;&amp;#153; wymienienie trzech zastosowa&amp;#197;&amp;#132; dla Twojego j&amp;#196;&amp;#153;zyka - ale czy potrafisz zrobi&amp;#196;&amp;#135; to w 5 sekund, gdy w&amp;#197;&amp;#130;a&amp;#197;&amp;#155;nie pl&amp;#196;&amp;#133;cze Ci si&amp;#196;&amp;#153; j&amp;#196;&amp;#153;zyk? Pozostali gracze bacznie Ci&amp;#196;&amp;#153; obserwuj&amp;#196;&amp;#133;, z niecierpliwo&amp;#197;&amp;#155;ci&amp;#196;&amp;#133; oczekuj&amp;#196;&amp;#133;c Twojej odpowiedzi, a czas ucieka! Po prostu wyrzu&amp;#196;&amp;#135; to z siebie!&amp;#10; Gra przeznaczona jest dla doros&amp;#197;&amp;#130;ych graczy.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2017" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="30" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="30+">		
+				</results>					
+	</poll> 			               				<playingtime value="60" />
+						               				<minplaytime value="15" />
+						               				<maxplaytime value="60" />
+						               				<minage value="18" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link id="1002" type="boardgamecategory" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="1027" type="boardgamecategory" value="Trivia" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link id="52099" type="boardgamedesigner" value="Michael Sistrunk" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link id="5268" type="boardgamepublisher" value="Trefl" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings>
+			<usersrated value="27" />
+			<average value="4.92593" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank bayesaverage="Not Ranked" friendlyname="Board Game Rank" id="1" name="boardgame" type="subtype" value="Not Ranked" />
+												</ranks>
+
+			<stddev value="2.12439" />
+			<median value="0" />
+			<owned value="45" />
+			<trading value="1" />
+			<wanting value="0" />
+			<wishing value="2" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item id="240224" type="boardgame">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/mnIq5yNqi0PaSjX0KvFT2SnGyJ8=/fit-in/200x150/pic3867850.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/MDZZY8BCrOl81GGBWKjqRwqsWtg=/0x0/pic3867850.jpg</image>
+                                     				
+				<name sortindex="5" type="primary" value="The Emoji Game" />
+			
+						                           
+						               													<description>A set collection game based on emoticons, where players take turns to perform an action from one set of cards before drawing and discarding one emoticon from their hand.&amp;#10;The first to have a set of five cards in the same emotional set (potentially including wildcards) must declare their emotion and put the hand on the table.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2015" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result numvotes="0" value="Best" />
+					<result numvotes="0" value="Recommended" />
+					<result numvotes="0" value="Not Recommended" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result numvotes="0" value="Best" />
+					<result numvotes="0" value="Recommended" />
+					<result numvotes="0" value="Not Recommended" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result numvotes="0" value="Best" />
+					<result numvotes="0" value="Recommended" />
+					<result numvotes="0" value="Not Recommended" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result numvotes="0" value="Best" />
+					<result numvotes="0" value="Recommended" />
+					<result numvotes="0" value="Not Recommended" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result numvotes="0" value="Best" />
+					<result numvotes="0" value="Recommended" />
+					<result numvotes="0" value="Not Recommended" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result numvotes="0" value="Best" />
+					<result numvotes="0" value="Recommended" />
+					<result numvotes="0" value="Not Recommended" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result numvotes="0" value="Best" />
+					<result numvotes="0" value="Recommended" />
+					<result numvotes="0" value="Not Recommended" />
+				</results>					
+	</poll> 			               				<playingtime value="20" />
+						               				<minplaytime value="5" />
+						               				<maxplaytime value="20" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link id="1002" type="boardgamecategory" value="Card Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link id="2004" type="boardgamemechanic" value="Set Collection" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link id="7855" type="boardgamepublisher" value="Ginger Fox Ltd." />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings>
+			<usersrated value="11" />
+			<average value="3.72727" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank bayesaverage="Not Ranked" friendlyname="Board Game Rank" id="1" name="boardgame" type="subtype" value="Not Ranked" />
+												</ranks>
+
+			<stddev value="0.962091" />
+			<median value="0" />
+			<owned value="20" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="5" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item id="240225" type="boardgame">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/mifmhxSX4H6QTd3zeJteRL-m7us=/fit-in/200x150/pic3846552.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/KjFmT5x0lTM32ox7vXZnwK6mQco=/0x0/pic3846552.jpg</image>
+                                     				
+				<name sortindex="1" type="primary" value="Roll to the Top!" />
+			
+						                               				
+				<name sortindex="1" type="alternate" value="Roll to the Top! LAMINATE" />
+			
+						               													<description>The goal of the game is to complete your 'Challenge' sheet by filling in numbers in all the squares of your sheet.&amp;#10;&amp;#10;Each game round some of the 4, 6, 8, 12 and 20 sided dice get rolled for all players.&amp;#10;Write the rolled numbers from the bottom to the top at your sheet, with each new number higher than or equal to each number underneath.&amp;#10;Your squares can contain:&amp;#10;- a number from 1 die, or&amp;#10;- the sum of 2 or more dice&amp;#10;You can also skip 1 or more dice.&amp;#10;&amp;#10;Before each next round, the special white die tells the next player (clockwise) to add, remove or swap a die before rolling.&amp;#10;&amp;#10;Key tactic is creating the best opportunities. The 4, 6, 8, 12 and 20 sided dice are capricious, so try to anticipate on chances!&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2018" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="4">
+			
+		<results numplayers="1">		
+					<result numvotes="0" value="Best" />
+					<result numvotes="2" value="Recommended" />
+					<result numvotes="1" value="Not Recommended" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result numvotes="1" value="Best" />
+					<result numvotes="3" value="Recommended" />
+					<result numvotes="0" value="Not Recommended" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result numvotes="1" value="Best" />
+					<result numvotes="3" value="Recommended" />
+					<result numvotes="0" value="Not Recommended" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result numvotes="1" value="Best" />
+					<result numvotes="3" value="Recommended" />
+					<result numvotes="0" value="Not Recommended" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result numvotes="0" value="Best" />
+					<result numvotes="4" value="Recommended" />
+					<result numvotes="0" value="Not Recommended" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result numvotes="0" value="Best" />
+					<result numvotes="1" value="Recommended" />
+					<result numvotes="2" value="Not Recommended" />
+				</results>					
+	</poll> 			               				<playingtime value="25" />
+						               				<minplaytime value="15" />
+						               				<maxplaytime value="25" />
+						               				<minage value="9" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="4">
+			<results>		
+					<result numvotes="0" value="2" />
+					<result numvotes="0" value="3" />
+					<result numvotes="0" value="4" />
+					<result numvotes="0" value="5" />
+					<result numvotes="1" value="6" />
+					<result numvotes="3" value="8" />
+					<result numvotes="0" value="10" />
+					<result numvotes="0" value="12" />
+					<result numvotes="0" value="14" />
+					<result numvotes="0" value="16" />
+					<result numvotes="0" value="18" />
+					<result numvotes="0" value="21 and up" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="16" numvotes="2" value="No necessary in-game text" />
+					<result level="17" numvotes="0" value="Some necessary text - easily memorized or small crib sheet" />
+					<result level="18" numvotes="0" value="Moderate in-game text - needs crib sheet or paste ups" />
+					<result level="19" numvotes="0" value="Extensive use of text - massive conversion needed to be playable" />
+					<result level="20" numvotes="0" value="Unplayable in another language" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link id="1017" type="boardgamecategory" value="Dice" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link id="2072" type="boardgamemechanic" value="Dice Rolling" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link id="41222" type="boardgamefamily" value="Roll-and-write" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link id="255965" type="boardgameexpansion" value="Roll to the Top!: Roll Through Africa" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="255963" type="boardgameexpansion" value="Roll to the Top!: Special Challenges Pack" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link id="105277" type="boardgamedesigner" value="Peter Joustra" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="124" type="boardgamedesigner" value="Corn&#233; van Moorsel" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link id="85261" type="boardgameartist" value="Steven Tu" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link id="77" type="boardgamepublisher" value="Cwali" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings>
+			<usersrated value="365" />
+			<average value="6.90404" />
+			<bayesaverage value="5.81788" />
+
+			<ranks>
+															<rank bayesaverage="5.81788" friendlyname="Board Game Rank" id="1" name="boardgame" type="subtype" value="3143" />
+												</ranks>
+
+			<stddev value="1.32548" />
+			<median value="0" />
+			<owned value="611" />
+			<trading value="21" />
+			<wanting value="53" />
+			<wishing value="223" />
+			<numcomments value="128" />
+			<numweights value="9" />
+			<averageweight value="1.1111" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item id="240231" type="boardgame">
+                                     				
+				<name sortindex="1" type="primary" value="Lotus" />
+			
+						                           
+						               													<description>Lotus is a Go-like game where captured pieces swap colors. The goal is to claim the most territory -- pieces and any empty points they surround. It's played on the 72 intersections flower-shaped board, just like the better known, Kensington.&amp;#10;&amp;#10;Instead of placing a piece on his turn, a player can pull the point track marker one step in his direction. This score is added to the territory count at the end.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="0" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="2+">		
+				</results>					
+	</poll> 			               				<playingtime value="0" />
+						               				<minplaytime value="0" />
+						               				<maxplaytime value="0" />
+						               				<minage value="0" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link id="1009" type="boardgamecategory" value="Abstract Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link id="2043" type="boardgamemechanic" value="Area Enclosure" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="2002" type="boardgamemechanic" value="Tile Placement" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link id="1126" type="boardgamedesigner" value="Christian Freeling" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link id="1001" type="boardgamepublisher" value="(Web published)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings>
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank bayesaverage="Not Ranked" friendlyname="Board Game Rank" id="1" name="boardgame" type="subtype" value="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="2" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item id="240244" type="boardgame">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/BjTtVCAgwEx0LftxgfE9x5ARYy4=/fit-in/200x150/pic3862578.png</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/FFUTpavJ227Gf0BtWX0eLVYZitM=/0x0/pic3862578.png</image>
+                                     				
+				<name sortindex="1" type="primary" value="ReaverQuest" />
+			
+						                           
+						               													<description>In a far off world of Swords and Sorcery the cyclopean Tower of Ravingspire looms over a mystic battlefield. Mighty warriors of the realm, known as Reavers, sojourn to this desolate valley to battle for dominance in an annual combat known as the Reaverquest. These warriors must fight with all their skill and cunning, as the seeping magic of the Tower may alter the very battlefield they fight on at a moment&amp;rsquo;s notice!&amp;#10;&amp;#10;Reaverquest is a fast-paced card battle game of brawling and swordplay set in the Sword and Sorcery world of Ravingspire. For 2-3 Players.&amp;#10;&amp;#10;Reaverquest consists of 30 Fight cards, 10 Rage cards, 9 Battlefield cards, and 3 Reaver Hero cards. Each Player chooses a specific Reaver to represent them in the combat, and uses that Hero card to track their health. Six of the ten Rage cards are randomly chosen and dealt into the deck of Fight cards, making the Rage dynamics of each game slightly different. The Battlefield cards are set aside as a separate deck near the gameplay area.&amp;#10;&amp;#10;Each Player is dealt a hand of six cards from a communal Fight deck that contains various values of Attack, Riposte, and Deflect cards, all with values ranging from 1-10. The deck also contains six of the ten Rage cards, which have various effects in battle. This hand is then used to combat your opponent, with the goal of reducing your opponent&amp;rsquo;s health to zero. Health is known as Vigor, and is tracked by rotating your Hero card so your current value is facing you.&amp;#10;&amp;#10;Each time a Player plays an ATTACK card a new Battle begins, and their opponent may DEFLECT the damage (partially blocking the Attack or sending the excess damage toward another Player), RIPOSTE the damage (partially blocking the Attack or returning the excess damage back toward the Attacker), or they may use one of the rare RAGE cards that have various effects. Ripostes may be countered back and forth until one of the Reavers takes damage, at which time that Battle ends.&amp;#10;&amp;#10;Initiative for each Battle (including the decision of which Attack card to play and who to send it toward) goes to the Player who did not play the last card in the previous Battle. Sometimes it can be more advantageous to take damage from the current Battle rather than block it so as to claim Initiative for the next Battle!&amp;#10;&amp;#10;If a defender ever uses a DEFLECT card to cause the value of the Battle to equal exactly zero, then they have performed a Perfect Parry. This kind of combat prowess so near the otherworldly Tower of Ravingspire causes a dimensional shift in the Battlefield. That defender draws a Battlefield card and benefits from the Perfect Parry effect listed in yellow on the card, which have various effects such as healing or drawing extra Fight cards. They then place that Battlefield card next to the gameplay area and all Players are now subject to the changes to the game listed in white on the card until that Battlefield is replaced. Where previously they may have been fighting in the Reaver Valley, where all Attack cards gain +1 value, suddenly they may find themselves battling within the Thief&amp;rsquo;s Maze, where any Deflect cards may be played as Ripostes!&amp;#10;&amp;#10;The game is played in a series of Rounds. A Round ends when no Player can play an Attack card, or one Player takes full damage from an Attack without defending in any way. When a Round ends any remaining cards in the Players&amp;rsquo; hands are discarded, as are any persistent Rage card effects on their Reaver. A new hand of cards is dealt to each Player and a new Round begins. The Dealer for the new Round rotates counterclockwise, and the Player to the Dealer&amp;rsquo;s left has Initiative at the beginning of the new Round.&amp;#10;&amp;#10;The ultimate goal of Reaverquest is to reduce your opponents&amp;rsquo; Vigor to zero, forcing them to submit to your rule and allowing you to claim the title of Vorpal Reaver.&amp;#10;&amp;#10;&amp;mdash;description from the publisher&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2017" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="3" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="3+">		
+				</results>					
+	</poll> 			               				<playingtime value="20" />
+						               				<minplaytime value="5" />
+						               				<maxplaytime value="20" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link id="1002" type="boardgamecategory" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="1010" type="boardgamecategory" value="Fantasy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="1046" type="boardgamecategory" value="Fighting" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link id="90560" type="boardgamedesigner" value="Joshua Carlson" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="90472" type="boardgamedesigner" value="Cory Scanlan" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link id="90561" type="boardgameartist" value="Cullen Bright" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link id="32516" type="boardgamepublisher" value="Vorpal Chainsword Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings>
+			<usersrated value="2" />
+			<average value="7.5" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank bayesaverage="Not Ranked" friendlyname="Board Game Rank" id="1" name="boardgame" type="subtype" value="Not Ranked" />
+												</ranks>
+
+			<stddev value="2.5" />
+			<median value="0" />
+			<owned value="6" />
+			<trading value="1" />
+			<wanting value="0" />
+			<wishing value="1" />
+			<numcomments value="1" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item id="240246" type="boardgame">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/VxfuwDtRN6tl_t-Eg4K4L38WGoU=/fit-in/200x150/pic3843012.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/gsOJ0bawz-QvrMME7qgHdzrppBc=/0x0/pic3843012.jpg</image>
+                                     				
+				<name sortindex="1" type="primary" value="&#216;isteins Drodlespill" />
+			
+						                           
+						               													<description>Game teaching kids to draw. A player draws a card, tries to draw it, and the other players try to guess what it is. &amp;#10;&amp;mdash;User summary&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2015" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="4+">		
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="5" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link id="1041" type="boardgamecategory" value="Children's Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link id="2055" type="boardgamemechanic" value="Paper-and-Pencil" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link id="104877" type="boardgamedesigner" value="&#216;istein Kristiansen" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link id="104877" type="boardgameartist" value="&#216;istein Kristiansen" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link id="2919" type="boardgamepublisher" value="Damm / Egmont" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings>
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank bayesaverage="Not Ranked" friendlyname="Board Game Rank" id="1" name="boardgame" type="subtype" value="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="0" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item id="240248" type="boardgame">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/nA1ogERCGxPtIvMOL1WsC5hgH_w=/fit-in/200x150/pic3910473.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/7MmyN4fgx2gQHfXohXB_PhdHpp8=/0x0/pic3910473.jpg</image>
+                                     				
+				<name sortindex="1" type="primary" value="Stakkerz" />
+			
+						                           
+						               													<description>Stakkerz is a fast-paced dexterity game of precise placement and steady nerves. Players take turns &amp;quot;stakking&amp;quot; chips on a totem, with a goal of keeping the totem standing, but also attempting to sabotage the next player by making the stakk as unstable as possible! Stakkerz is playable by all age groups, with simple rules, sturdy components, and game times of less than 10 minutes.&amp;#10;&amp;#10;www.Stakkerz.com is the official website, and Stakkerz is on Facebook as well as Instagram.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2017" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="4+">		
+				</results>					
+	</poll> 			               				<playingtime value="6" />
+						               				<minplaytime value="3" />
+						               				<maxplaytime value="6" />
+						               				<minage value="5" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link id="1032" type="boardgamecategory" value="Action / Dexterity" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="1030" type="boardgamecategory" value="Party Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link id="2689" type="boardgamemechanic" value="Action / Movement Programming" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="2661" type="boardgamemechanic" value="Press Your Luck" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link id="105087" type="boardgamedesigner" value="Aaron Burks" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link id="3" type="boardgameartist" value="(Uncredited)" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link id="37863" type="boardgamepublisher" value="Stakkerz LLC" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings>
+			<usersrated value="2" />
+			<average value="7.5" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank bayesaverage="Not Ranked" friendlyname="Board Game Rank" id="1" name="boardgame" type="subtype" value="Not Ranked" />
+												</ranks>
+
+			<stddev value="2.5" />
+			<median value="0" />
+			<owned value="2" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="1" />
+			<numcomments value="0" />
+			<numweights value="2" />
+			<averageweight value="1.5" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item id="240251" type="boardgame">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/odIcsR9Wr1xOmuS8fqHFrrVHXHg=/fit-in/200x150/pic3862225.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/JvF5e9sqvPiq8bNZ2b1sDdzFlrY=/0x0/pic3862225.jpg</image>
+                                     				
+				<name sortindex="1" type="primary" value="Cube Conundrum" />
+			
+						                           
+						               													<description>Cube Conundrum is a simple-to-learn game that can be played in about 10-15 minutes but is designed to be extremely flexible and provide a different game every time, depending on how you set up the board.&amp;#10;&amp;#10;Players use action cards to move their cubes from start to finish along a hexagonal path. The cards send each cube forward or backward one space on every turn. Depending on the cards in your hand, you may have no choice but to help your fellow players. However, chances are good they'll be repaying you in the future.&amp;#10;&amp;#10;Every card affects every player on every turn. Choose Wisely!&amp;#10;&amp;#10;The hexagonal path includes advanced/harder gameplay options for those looking for a longer game with some twists and turns. While strategy does play a role in this game, there is an equal element of luck-of-the-draw as well.&amp;#10;&amp;#10;&amp;mdash;description from the publisher&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2017" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="12" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="12+">		
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="10" />
+						               				<maxplaytime value="30" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link id="1031" type="boardgamecategory" value="Racing" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link id="37894" type="boardgamepublisher" value="Welch Games LLC" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings>
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank bayesaverage="Not Ranked" friendlyname="Board Game Rank" id="1" name="boardgame" type="subtype" value="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="1" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="2" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item id="240253" type="boardgame">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/j0tnMFm2rn3pjlsnADaLapjTXYc=/fit-in/200x150/pic4124863.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/W7WvfooGBVkqi2nRCsMLK1EeW5U=/0x0/pic4124863.jpg</image>
+                                     				
+				<name sortindex="1" type="primary" value="Supernatural Save Your Souls" />
+			
+						                           
+						               													<description>Fans of the TV hit Supernatural know that Sam and Dean abide by certain rules to keep themselves safe. One of said rules is keeping innocent people out of harm&amp;rsquo;s way&amp;mdash;but rules were meant to be broken.&amp;#10;&amp;#10;The Winchesters finally got a Supernatural card game, appropriately titled Save Your Souls. It breaks all the rules the brothers strictly obeyed&amp;hellip;or so you thought!&amp;#10;&amp;#10;Sam and Dean Winchester need your help. Join them on a card game journey to save innocent lives. Ok, well mostly, the goal is to save your own.&amp;#10;&amp;#10;In this game of chance, you&amp;rsquo;re paired with one of the series&amp;rsquo; iconic hunters, an angel, or even the King of Hell himself. Be careful! You must choose your cards wisely, or you could end up losing your soul.&amp;#10;&amp;#10;&amp;mdash;description from the publisher&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2017" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="10" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="10+">		
+				</results>					
+	</poll> 			               				<playingtime value="60" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="60" />
+						               				<minage value="13" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link id="1002" type="boardgamecategory" value="Card Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link id="2685" type="boardgamemechanic" value="Player Elimination" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="2686" type="boardgamemechanic" value="Take That" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link id="22783" type="boardgamefamily" value="Admin: Better Description Needed!" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link id="634" type="boardgamepublisher" value="USAopoly" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings>
+			<usersrated value="5" />
+			<average value="5.6" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank bayesaverage="Not Ranked" friendlyname="Board Game Rank" id="1" name="boardgame" type="subtype" value="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.35647" />
+			<median value="0" />
+			<owned value="26" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="4" />
+			<numcomments value="2" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item id="240271" type="boardgame">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/OHusZCJS9SJnDyqwlUUjIhPgY50=/fit-in/200x150/pic4575140.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/s98DYTowiLNLOIbd-skU5yOQkvw=/0x0/pic4575140.jpg</image>
+                                     				
+				<name sortindex="1" type="primary" value="Core Space" />
+			
+						                           
+						               													<description>Core Space is a science fiction miniatures board game. Each player takes control of a band of Traders trying to make a living in a dangerous galaxy, all the while hunted by the Purge, a semi-sentient race of humanoid machines whose sole task is to harvest worlds.&amp;#10;&amp;#10;A game of Core Space takes place on a detailed 3D board. Your Traders must explore the area, fulfil their objectives, salvage what they can and then escape back to their ship, spending their earnings on desperately-needed repairs. The exciting campaign system will track your crew from game to game, developing their skills, upgrading their equipment and telling their story.&amp;#10;&amp;#10;This core set accommodates 1-2 players, but the game supports up to 6 players using additional Trader crews, available separately.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2019" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result numvotes="0" value="Best" />
+					<result numvotes="0" value="Recommended" />
+					<result numvotes="0" value="Not Recommended" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result numvotes="0" value="Best" />
+					<result numvotes="0" value="Recommended" />
+					<result numvotes="0" value="Not Recommended" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result numvotes="0" value="Best" />
+					<result numvotes="0" value="Recommended" />
+					<result numvotes="0" value="Not Recommended" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result numvotes="0" value="Best" />
+					<result numvotes="0" value="Recommended" />
+					<result numvotes="0" value="Not Recommended" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result numvotes="0" value="Best" />
+					<result numvotes="0" value="Recommended" />
+					<result numvotes="0" value="Not Recommended" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result numvotes="0" value="Best" />
+					<result numvotes="0" value="Recommended" />
+					<result numvotes="0" value="Not Recommended" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result numvotes="0" value="Best" />
+					<result numvotes="0" value="Recommended" />
+					<result numvotes="0" value="Not Recommended" />
+				</results>					
+	</poll> 			               				<playingtime value="180" />
+						               				<minplaytime value="45" />
+						               				<maxplaytime value="180" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="21" numvotes="0" value="No necessary in-game text" />
+					<result level="22" numvotes="0" value="Some necessary text - easily memorized or small crib sheet" />
+					<result level="23" numvotes="0" value="Moderate in-game text - needs crib sheet or paste ups" />
+					<result level="24" numvotes="0" value="Extensive use of text - massive conversion needed to be playable" />
+					<result level="25" numvotes="0" value="Unplayable in another language" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link id="1047" type="boardgamecategory" value="Miniatures" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="1016" type="boardgamecategory" value="Science Fiction" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link id="2023" type="boardgamemechanic" value="Cooperative Play" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="2072" type="boardgamemechanic" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="2011" type="boardgamemechanic" value="Modular Board" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link id="22184" type="boardgamefamily" value="Admin: Unreleased Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="8374" type="boardgamefamily" value="Crowdfunding: Kickstarter" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link id="115336" type="boardgamedesigner" value="Colin Young" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link id="115336" type="boardgameartist" value="Colin Young" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link id="37869" type="boardgamepublisher" value="Battle Systems Ltd" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings>
+			<usersrated value="49" />
+			<average value="9.44898" />
+			<bayesaverage value="5.54666" />
+
+			<ranks>
+															<rank bayesaverage="5.54666" friendlyname="Board Game Rank" id="1" name="boardgame" type="subtype" value="9162" />
+												</ranks>
+
+			<stddev value="1.03137" />
+			<median value="0" />
+			<owned value="86" />
+			<trading value="2" />
+			<wanting value="15" />
+			<wishing value="96" />
+			<numcomments value="27" />
+			<numweights value="2" />
+			<averageweight value="2" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item id="240272" type="boardgame">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/KuJ1g9rj5ksXVedBzck25DFoTIY=/fit-in/200x150/pic3854474.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/EJNntdWCEnfXZOeFPcAvSlSL-Qk=/0x0/pic3854474.jpg</image>
+                                     				
+				<name sortindex="1" type="primary" value="Chessaga" />
+			
+						                           
+						               													<description>CHESSaga is a fantasy/chess game where players take their chess pieces on story-driven journeys across custom game-maps!&amp;#10;&amp;#10;The hero player controls 3 chess pieces -- a knight, a bishop, and a rook. On each map, they face 1 or more enemy pieces, controlled by the villain player.  An losses the hero incurs are permanent.  On the first 6 maps, the goal is to rescue the captured pawn(s) then escape the board via a specified exit square. On those boards, the pawns are stationary objects. Defeating the enemy piece(s) is not necessary.  On the final board, the pawns activate and join the hero to help them capture the enemy king.  If the hero players makes it through all 7 boards and capture the enemy king, they win.  Otherwise, the villain wins.&amp;#10;&amp;#10;With more than 2 players, players split control of the hero pieces.  The rulebook also provides loose guidelines for playing solo and controlling both sides fairly.&amp;#10;&amp;#10;The gameboards and rules are all contained in a thin comic-book sized booklet that opens up to different pages for different missions.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2017" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result numvotes="0" value="Best" />
+					<result numvotes="1" value="Recommended" />
+					<result numvotes="0" value="Not Recommended" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result numvotes="1" value="Best" />
+					<result numvotes="0" value="Recommended" />
+					<result numvotes="0" value="Not Recommended" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result numvotes="0" value="Best" />
+					<result numvotes="0" value="Recommended" />
+					<result numvotes="1" value="Not Recommended" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result numvotes="0" value="Best" />
+					<result numvotes="0" value="Recommended" />
+					<result numvotes="0" value="Not Recommended" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result numvotes="0" value="Best" />
+					<result numvotes="0" value="Recommended" />
+					<result numvotes="1" value="Not Recommended" />
+				</results>					
+	</poll> 			               				<playingtime value="0" />
+						               				<minplaytime value="0" />
+						               				<maxplaytime value="0" />
+						               				<minage value="0" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result numvotes="0" value="2" />
+					<result numvotes="0" value="3" />
+					<result numvotes="0" value="4" />
+					<result numvotes="0" value="5" />
+					<result numvotes="1" value="6" />
+					<result numvotes="0" value="8" />
+					<result numvotes="0" value="10" />
+					<result numvotes="0" value="12" />
+					<result numvotes="0" value="14" />
+					<result numvotes="0" value="16" />
+					<result numvotes="0" value="18" />
+					<result numvotes="0" value="21 and up" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="26" numvotes="1" value="No necessary in-game text" />
+					<result level="27" numvotes="0" value="Some necessary text - easily memorized or small crib sheet" />
+					<result level="28" numvotes="0" value="Moderate in-game text - needs crib sheet or paste ups" />
+					<result level="29" numvotes="0" value="Extensive use of text - massive conversion needed to be playable" />
+					<result level="30" numvotes="0" value="Unplayable in another language" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link id="1009" type="boardgamecategory" value="Abstract Strategy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="1010" type="boardgamecategory" value="Fantasy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link id="2676" type="boardgamemechanic" value="Grid Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="2685" type="boardgamemechanic" value="Player Elimination" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="2015" type="boardgamemechanic" value="Variable Player Powers" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link id="4024" type="boardgamefamily" value="Chess Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="8374" type="boardgamefamily" value="Crowdfunding: Kickstarter" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link id="103879" type="boardgamedesigner" value="J. S. Earls" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link id="4" type="boardgamepublisher" value="(Self-Published)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings>
+			<usersrated value="1" />
+			<average value="6" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank bayesaverage="Not Ranked" friendlyname="Board Game Rank" id="1" name="boardgame" type="subtype" value="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="2" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="2" />
+			<numcomments value="1" />
+			<numweights value="1" />
+			<averageweight value="2" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item id="240282" type="boardgame">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/nulXK7kCJpNnLM5sLN8WomXSLTQ=/fit-in/200x150/pic3854730.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/QWMi6Mug81I-HZ4vgab8h9_LS6U=/0x0/pic3854730.jpg</image>
+                                     				
+				<name sortindex="5" type="primary" value="The Zombie, The Princess &amp; The Kid Next Door" />
+			
+						                           
+						               													<description>It's the game that features a surprising mix of characters, amazingly simple rules and the right touch of cleverness.&amp;#10;&amp;#10;Each player starts with 3 tiles.  On every turn place one of your tiles on any open space on the board.  But look carefully so you don't place a tile that will help your opponents score as you try to get three in a row - vertically, horizontally or diagonally.&amp;#10;&amp;#10;When you're successful, collect a token.  On some especially good moves you can get 2 or 3 tokens.  &amp;#10;At the end of the game when the board is full of zombies, princesses and that kid next door, the player with the most tokens wins.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2012" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="4+">		
+				</results>					
+	</poll> 			               				<playingtime value="0" />
+						               				<minplaytime value="0" />
+						               				<maxplaytime value="0" />
+						               				<minage value="7" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link id="1041" type="boardgamecategory" value="Children's Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link id="2002" type="boardgamemechanic" value="Tile Placement" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link id="8236" type="boardgamedesigner" value="Brad Ross" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="298" type="boardgamedesigner" value="Jim Winslow" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link id="486" type="boardgamepublisher" value="Paul Lamond Games Ltd" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings>
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank bayesaverage="Not Ranked" friendlyname="Board Game Rank" id="1" name="boardgame" type="subtype" value="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="4" />
+			<trading value="1" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="1" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item id="240291" type="boardgame">
+                                     				
+				<name sortindex="1" type="primary" value="Perjuangan Jomblo" />
+			
+						                           
+						               													<description>Perjuangan Jomblo (&amp;quot;Singles Struggles&amp;quot;) is an Indonesian-designed board game, portraying the struggles of men and women in Indonesia finding the love of their life.&amp;#10;&amp;#10;Perjuangan Jomblo finished on the third place of Kompas Board Game Challange 2015, behind Waroong Wars and Pagelarang Yogyakarta as first and second place respectively.&amp;#10;&amp;#10;The goal of the game is to achieve a set number of victory points by making a move to a set of men/women with different needs. Each round, players are taking turn in selecting a man or woman to make a move to. They fulfill the needs of their target by playing cards from their hands. Afterwards, there is an added push your luck element by guessing the required &amp;quot;cool&amp;quot; or &amp;quot;handsome&amp;quot; factor from the randomizer deck. IF they are successful, some VP is awarded, and the target goes up to the next level (more needy), making them harder to be approached next time. The empty slot below him/her is then filled with a new one at the end of the round.&amp;#10;&amp;#10;The game also features a little bit of take-that mechanism to ruin other player's relationship.&amp;#10;&amp;#10;&amp;mdash;user summary&amp;#10;&amp;#10;Wahai Pejuang Cinta !!!&amp;#10;Kini tiba saatnya untukmu maju bertempur di medan cinta. Berjuanglah untuk mengejar pujaan hatimu demi mendapatkan cinta mereka. Ini bukanlah pertarungan yang sepele, ini akan keras! Penuh intrik dan perjuangan.&amp;#10;&amp;#10;Mampukah kamu lulus dari gelar Jomblo ? Tunjukan perjuangan cintamu dalam board game Perjuangan Jomblo.&amp;#10;&amp;#10;&amp;mdash;description from publisher&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2015" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result numvotes="0" value="Best" />
+					<result numvotes="0" value="Recommended" />
+					<result numvotes="0" value="Not Recommended" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result numvotes="0" value="Best" />
+					<result numvotes="0" value="Recommended" />
+					<result numvotes="0" value="Not Recommended" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result numvotes="0" value="Best" />
+					<result numvotes="0" value="Recommended" />
+					<result numvotes="0" value="Not Recommended" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result numvotes="0" value="Best" />
+					<result numvotes="0" value="Recommended" />
+					<result numvotes="0" value="Not Recommended" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result numvotes="0" value="Best" />
+					<result numvotes="0" value="Recommended" />
+					<result numvotes="0" value="Not Recommended" />
+				</results>					
+	</poll> 			               				<playingtime value="0" />
+						               				<minplaytime value="45" />
+						               				<maxplaytime value="0" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link id="1002" type="boardgamecategory" value="Card Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link id="2080" type="boardgamemechanic" value="Area Control / Area Influence" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="2040" type="boardgamemechanic" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="2661" type="boardgamemechanic" value="Press Your Luck" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link id="102117" type="boardgamedesigner" value="Hamzah Alfarabi" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="102116" type="boardgamedesigner" value="Vicky Belladino" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link id="25879" type="boardgamepublisher" value="Manikmaya Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings>
+			<usersrated value="5" />
+			<average value="6.4" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank bayesaverage="Not Ranked" friendlyname="Board Game Rank" id="1" name="boardgame" type="subtype" value="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.35647" />
+			<median value="0" />
+			<owned value="9" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="1" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item id="240292" type="boardgame">
+                                     				
+				<name sortindex="1" type="primary" value="Star Command" />
+			
+						                           
+						               													<description>Tactical Space Combat - 22nd Century&amp;#10;&amp;#10;Star Command brings the future to you!&amp;#10;&amp;#10;Star Command is the tactical game of space combat in the 22nd century between the Terran Federation and the felinoid Shaanthra. Designed with both board gamers and miniature gamers in mind, Star Command uses simultaneous movement and fire featuring laser and missile weapons in starships using gravitic drives and hyperdrives for faster than light movement. Rules are included for strategic play and spacecraft markers are provided so that you may begin to enjoy the game immediately without buying expensive models. Additional rules for three-dimensional play.&amp;#10;&amp;mdash;description from the publisher&amp;#10;&amp;#10;Set in the same fictional universe as Kurtick's Strike Team Alpha.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1976" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="2+">		
+				</results>					
+	</poll> 			               				<playingtime value="0" />
+						               				<minplaytime value="0" />
+						               				<maxplaytime value="0" />
+						               				<minage value="0" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link id="1047" type="boardgamecategory" value="Miniatures" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="1016" type="boardgamecategory" value="Science Fiction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="1019" type="boardgamecategory" value="Wargame" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link id="2072" type="boardgamemechanic" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="2070" type="boardgamemechanic" value="Simulation" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link id="2500" type="boardgamedesigner" value="Michael Scott Kurtick" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link id="37877" type="boardgamepublisher" value="Clavius Publications" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings>
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank bayesaverage="Not Ranked" friendlyname="Board Game Rank" id="1" name="boardgame" type="subtype" value="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="0" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item id="240293" type="boardgame">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/g7BrEqHA-1z7SjwJ-DiAehttp7c=/fit-in/200x150/pic3867343.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/gD-MLJtBfpf0qBBenzHqOtKAYnM=/0x0/pic3867343.jpg</image>
+                                     				
+				<name sortindex="1" type="primary" value="Realm of Desires" />
+			
+						                           
+						               													<description>Realm of Desires is a strategic turn-based board game for 2-4 players set in a fantasy medieval era where an epic war happen due to the clash between 4 races over their desires.&amp;#10;&amp;#10;No Dice, No Luck. Your strategy can overcome any obstacle and turn any potential disadvantage to an advantage in this game.&amp;#10;&amp;#10;Modular battlefield will make each game unique and filled with its challenges to command and conquer the other races.&amp;#10;&amp;#10;&amp;mdash;description from the publisher&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2018" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="4+">		
+				</results>					
+	</poll> 			               				<playingtime value="60" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="60" />
+						               				<minage value="13" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link id="1010" type="boardgamecategory" value="Fantasy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="1035" type="boardgamecategory" value="Medieval" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="1047" type="boardgamecategory" value="Miniatures" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="1019" type="boardgamecategory" value="Wargame" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link id="2018" type="boardgamemechanic" value="Campaign / Battle Card Driven" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="2011" type="boardgamemechanic" value="Modular Board" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="2685" type="boardgamemechanic" value="Player Elimination" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="2078" type="boardgamemechanic" value="Point to Point Movement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link id="22184" type="boardgamefamily" value="Admin: Unreleased Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="8374" type="boardgamefamily" value="Crowdfunding: Kickstarter" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link id="37876" type="boardgamepublisher" value="Gasp Gasp Entertainment" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings>
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank bayesaverage="Not Ranked" friendlyname="Board Game Rank" id="1" name="boardgame" type="subtype" value="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="0" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="1" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item id="240320" type="boardgame">
+                                     				
+				<name sortindex="5" type="primary" value="The Finest Guild Of Real Gentleorcs" />
+			
+						                           
+						               													<description>Insulting at the highest level!&amp;#10;&amp;#10;Have you always wanted to fool the elves, witches, orcs and magicians of their unconstructive mindset? Use your non-existent tact and inexhaustible creativity to verbally humiliate your companions as efficiently as possible. With each new game, new unique combinations of insults are created that you can hand out to your comrades. But beware, because your companions also have some quick-witted insults that they would love to hand over to you.&amp;#10;&amp;#10;The game is being played by players drafting cards from a common pool, creating their humiliation as a phrase. A grammatically correct sentence, no matter if it makes sense or not, can be used against an opponent to shame him publically, giving him penalty points. Some races are offended and thus humilated more by specific words than others. Once a player has accumulated 30 points or more through insults of the other players, he is eliminated from the game, though there are a couple of proposed house rule which allow for different ways to play this game.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2017" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="8" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="8+">		
+				</results>					
+	</poll> 			               				<playingtime value="180" />
+						               				<minplaytime value="10" />
+						               				<maxplaytime value="180" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link id="1002" type="boardgamecategory" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="1010" type="boardgamecategory" value="Fantasy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="1079" type="boardgamecategory" value="Humor" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="1030" type="boardgamecategory" value="Party Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link id="2041" type="boardgamemechanic" value="Card Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="2685" type="boardgamemechanic" value="Player Elimination" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link id="105149" type="boardgamedesigner" value="Patrick Geiss" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link id="105149" type="boardgameartist" value="Patrick Geiss" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link id="4" type="boardgamepublisher" value="(Self-Published)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings>
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank bayesaverage="Not Ranked" friendlyname="Board Game Rank" id="1" name="boardgame" type="subtype" value="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="2" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="1" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item id="240322" type="boardgame">
+                                     				
+				<name sortindex="1" type="primary" value="Annapurna" />
+			
+						                           
+						               													<description>In Annapurna, players are set with climbing the titular mountain range by swapping and flipping cards over as they make their ascent. Randomly arranged in a triangle, players flip a card when attempting to move to it. Some cards will give or negate points and others will block your progress.&amp;#10;&amp;#10;Swapping cards from your hand into your mountain or your opponent's mountain will help you along or deter the progress of your opponents. Rounds end after one player has reached their summit. There are 3 rounds total, after which the player with the most points has won.&amp;#10;&amp;#10;If you really fall behind, playing cards from the chaos deck will drastically alter the mountain for the benefit or detriment of everyone or even just sometimes yourself.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="0" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="4+">		
+				</results>					
+	</poll> 			               				<playingtime value="0" />
+						               				<minplaytime value="0" />
+						               				<maxplaytime value="0" />
+						               				<minage value="0" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link id="1002" type="boardgamecategory" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="1038" type="boardgamecategory" value="Sports" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link id="2047" type="boardgamemechanic" value="Memory" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="2078" type="boardgamemechanic" value="Point to Point Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="2661" type="boardgamemechanic" value="Press Your Luck" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link id="6043" type="boardgamefamily" value="Sports: Mountain climbing" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link id="105148" type="boardgamedesigner" value="Rebecca Horovitz" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link id="105148" type="boardgameartist" value="Rebecca Horovitz" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link id="3320" type="boardgamepublisher" value="(Unknown)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings>
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank bayesaverage="Not Ranked" friendlyname="Board Game Rank" id="1" name="boardgame" type="subtype" value="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="0" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item id="240338" type="boardgame">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/qXf02kMppCwFLvM9IMIT_bvwhzw=/fit-in/200x150/pic3900583.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/BI2ft8KpXRvXD6G6vTr2VgwcYd4=/0x0/pic3900583.jpg</image>
+                                     				
+				<name sortindex="1" type="primary" value="Patrimonia Amsterdam" />
+			
+						                           
+						               													<description>Patrimonia Amsterdam is a strategic board game for 2 to 6 people. By manoeuvring your boat tactically through the canals, collecting the right materials and being the first to finish building your monuments, you can win. But be careful, some monuments are worth more than others. Also watch out for the other players! Using shrewd negotiation tactics and a clever choice of profession they can mess up your game. Also keeping things on edge are the luck or lose cards. Who sinks his boat and who sails away towards victory? &amp;#10;Patrimonia Amsterdam is an addictive board game, exciting till the last second.&amp;#10;&amp;#10;Purpose of the game:&amp;#10;Sailing the canals you collect foundations, building materials and permits to renovate monuments, and by doing so, you help conserve the historical city centre of Amsterdam.&amp;#10;Has a player finished renovating all his monuments? This is when the last round will be played. The player who has the most points at the end, wins.&amp;#10;&amp;#10;&amp;mdash;description from the designer&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2017" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result numvotes="0" value="Best" />
+					<result numvotes="0" value="Recommended" />
+					<result numvotes="0" value="Not Recommended" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result numvotes="0" value="Best" />
+					<result numvotes="0" value="Recommended" />
+					<result numvotes="0" value="Not Recommended" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result numvotes="0" value="Best" />
+					<result numvotes="0" value="Recommended" />
+					<result numvotes="0" value="Not Recommended" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result numvotes="0" value="Best" />
+					<result numvotes="0" value="Recommended" />
+					<result numvotes="0" value="Not Recommended" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result numvotes="0" value="Best" />
+					<result numvotes="0" value="Recommended" />
+					<result numvotes="0" value="Not Recommended" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result numvotes="0" value="Best" />
+					<result numvotes="0" value="Recommended" />
+					<result numvotes="0" value="Not Recommended" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result numvotes="0" value="Best" />
+					<result numvotes="0" value="Recommended" />
+					<result numvotes="0" value="Not Recommended" />
+				</results>					
+	</poll> 			               				<playingtime value="120" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="120" />
+						               				<minage value="6" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="31" numvotes="0" value="No necessary in-game text" />
+					<result level="32" numvotes="0" value="Some necessary text - easily memorized or small crib sheet" />
+					<result level="33" numvotes="0" value="Moderate in-game text - needs crib sheet or paste ups" />
+					<result level="34" numvotes="0" value="Extensive use of text - massive conversion needed to be playable" />
+					<result level="35" numvotes="0" value="Unplayable in another language" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link id="1026" type="boardgamecategory" value="Negotiation" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link id="2007" type="boardgamemechanic" value="Pick-up and Deliver" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link id="18643" type="boardgamefamily" value="Cities: Amsterdam" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link id="4" type="boardgamepublisher" value="(Self-Published)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings>
+			<usersrated value="3" />
+			<average value="5.66667" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank bayesaverage="Not Ranked" friendlyname="Board Game Rank" id="1" name="boardgame" type="subtype" value="Not Ranked" />
+												</ranks>
+
+			<stddev value="2.86744" />
+			<median value="0" />
+			<owned value="3" />
+			<trading value="0" />
+			<wanting value="1" />
+			<wishing value="1" />
+			<numcomments value="1" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item id="240349" type="boardgame">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/b_yaJgkf88fbrxyJnOR-iIWTFow=/fit-in/200x150/pic3862993.png</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/Ri9AiiJxfUTOeAgjELvVq3ZeHk8=/0x0/pic3862993.png</image>
+                                     				
+				<name sortindex="1" type="primary" value="Agents in Time" />
+			
+						                           
+						               													<description>Agents in Time is a time travelling game in which players begin with a team of two Agents, and are charged with flitting in and out of parallel time lines trying to achieve Objectives dictated by cards drawn at the start and during the game, all the while avoiding the Xanadu Time Patrol and ideally ensuring they keep overall control of their misdemeanours through time...&amp;#10;&amp;#10;Part worker-placement, part abstract strategy, and part 'take that' (and part educational for those with a passing interest in history!), Agents in Time has a number of unique mechanics which make it unlike many other games, whilst still being familiar and easy to pick up.&amp;#10;&amp;#10;Using a modular board of 36 hexes (Timespots), centered around a Main Timeline, the game plays out in a series of turns in which players Assign and Recall Agents, Paradox and Resolve minor and major events across time, claim Objectives, and more than likely trip over other time travellers...&amp;#10;&amp;#10;A unique scoring tracker keeps a tally of both your Black Spot count (Blot) and Paradox Point totals, and the aim of the game is to complete Objectives and reduce your Paradox Score down to zero, but you start with a number of Black Spots (Blots) on your scorecard, and need to gradually erode those down to zero as well, because those Black Spots (Blots) will also hold up your Paradox Score (the latter can&amp;rsquo;t go below the former, but the Blots can push your Paradox score back the other way). How come? Because in order to complete your objectives you have to 'flip&amp;rsquo;n&amp;rsquo;ripple' various Timespots (hexes) which in turn creates further paradoxes and causes your Blot count to start rising (and those of your opponents if they&amp;rsquo;re on the same space, or adjacent to you!) &amp;ndash; And how do you get your Blot count down? By &amp;lsquo;fixing the timeline&amp;rsquo; and putting things back again (called a Resolve action), but this could also benefit your opponents, who will similarly lose Blots for your good deed!&amp;#10;&amp;#10;&amp;mdash;description from the designer&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2018" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result numvotes="0" value="Best" />
+					<result numvotes="0" value="Recommended" />
+					<result numvotes="0" value="Not Recommended" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result numvotes="0" value="Best" />
+					<result numvotes="0" value="Recommended" />
+					<result numvotes="0" value="Not Recommended" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result numvotes="0" value="Best" />
+					<result numvotes="0" value="Recommended" />
+					<result numvotes="0" value="Not Recommended" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result numvotes="0" value="Best" />
+					<result numvotes="0" value="Recommended" />
+					<result numvotes="0" value="Not Recommended" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result numvotes="0" value="Best" />
+					<result numvotes="0" value="Recommended" />
+					<result numvotes="0" value="Not Recommended" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result numvotes="0" value="Best" />
+					<result numvotes="0" value="Recommended" />
+					<result numvotes="0" value="Not Recommended" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result numvotes="0" value="Best" />
+					<result numvotes="0" value="Recommended" />
+					<result numvotes="0" value="Not Recommended" />
+				</results>					
+	</poll> 			               				<playingtime value="120" />
+						               				<minplaytime value="45" />
+						               				<maxplaytime value="120" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link id="1009" type="boardgamecategory" value="Abstract Strategy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="1023" type="boardgamecategory" value="Bluffing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="1039" type="boardgamecategory" value="Deduction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="1094" type="boardgamecategory" value="Educational" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="1079" type="boardgamecategory" value="Humor" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="1016" type="boardgamecategory" value="Science Fiction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="1081" type="boardgamecategory" value="Spies/Secret Agents" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link id="2080" type="boardgamemechanic" value="Area Control / Area Influence" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="2021" type="boardgamemechanic" value="Area-Impulse" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="2040" type="boardgamemechanic" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="2011" type="boardgamemechanic" value="Modular Board" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="2078" type="boardgamemechanic" value="Point to Point Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="2686" type="boardgamemechanic" value="Take That" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="2663" type="boardgamemechanic" value="Time Track" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="2082" type="boardgamemechanic" value="Worker Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link id="22184" type="boardgamefamily" value="Admin: Unreleased Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="6258" type="boardgamefamily" value="Time Travel" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link id="31870" type="boardgamedesigner" value="Alex Bardy" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link id="37880" type="boardgamepublisher" value="Kairos Games Design (KGD)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings>
+			<usersrated value="8" />
+			<average value="8.5" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank bayesaverage="Not Ranked" friendlyname="Board Game Rank" id="1" name="boardgame" type="subtype" value="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.58114" />
+			<median value="0" />
+			<owned value="2" />
+			<trading value="0" />
+			<wanting value="3" />
+			<wishing value="16" />
+			<numcomments value="6" />
+			<numweights value="2" />
+			<averageweight value="2.5" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item id="240355" type="boardgame">
+                                     				
+				<name sortindex="1" type="primary" value="Tavern Trouble" />
+			
+						                           
+						               													<description>Prepare your stool, draw your cards, and get ready for Tavern Trouble &amp;ndash; the fast paced card game that&amp;rsquo;s easy to learn and highly fun. You&amp;rsquo;ll play your cards to control the many travelers of the well-known establishment the Crowned Frog and use their special powers in great brawls.&amp;#10;&amp;#10;Elements of the game&amp;#10;A deck includes 27 characters cards with power from 1 to 9. To keep the scores, each player has a card squared from 0 to 25 (these go by the original name of &amp;ldquo;life points&amp;rdquo;). At the beginning of the game, each player put his life token on the 20 square(during the game it is not possible to go with a score higher than 25 life points).&amp;#10;&amp;#10;Win the game&amp;#10;There is only one way to win the game. When a player loses all his life points, he is eliminated. The game ends when there is only one player with life points.&amp;#10;&amp;#10;Walkthrough&amp;#10;The game is played in a succession of turns, where the players will try to reduce the life points of their opponents. A turn includes 4 phases:&amp;#10;A. deal&amp;#10;B. draw&amp;#10;C. play an ability&amp;#10;D. reveal &amp;amp; score&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="0" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="6+">		
+				</results>					
+	</poll> 			               				<playingtime value="15" />
+						               				<minplaytime value="8" />
+						               				<maxplaytime value="15" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link id="1041" type="boardgamecategory" value="Children's Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="1010" type="boardgamecategory" value="Fantasy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="1046" type="boardgamecategory" value="Fighting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="1098" type="boardgamecategory" value="Number" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="1030" type="boardgamecategory" value="Party Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link id="2040" type="boardgamemechanic" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="2685" type="boardgamemechanic" value="Player Elimination" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="2661" type="boardgamemechanic" value="Press Your Luck" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link id="22184" type="boardgamefamily" value="Admin: Unreleased Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="8374" type="boardgamefamily" value="Crowdfunding: Kickstarter" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link id="89473" type="boardgamedesigner" value="Delphin Druelle" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link id="105150" type="boardgameartist" value="Emir Durmisevic" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link id="4" type="boardgamepublisher" value="(Self-Published)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="31895" type="boardgamepublisher" value="Eclosion Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings>
+			<usersrated value="4" />
+			<average value="5" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank bayesaverage="Not Ranked" friendlyname="Board Game Rank" id="1" name="boardgame" type="subtype" value="Not Ranked" />
+												</ranks>
+
+			<stddev value="4.06202" />
+			<median value="0" />
+			<owned value="19" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="4" />
+			<numcomments value="12" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item id="240357" type="boardgame">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/59czGzw_hUOMHsMDcmhYI0DE-j0=/fit-in/200x150/pic3849751.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/0pGdNXxq22nxGp4C7T2Zjyo9xyo=/0x0/pic3849751.jpg</image>
+                                     				
+				<name sortindex="1" type="primary" value="Aalsmeer" />
+			
+						                           
+						               													<description>Do you know that the Flower fair in Aalsmeer (Netherlands) is the biggest cutted flower fair in the world?&amp;#10;&amp;#10;Every day is a frantic work day buying and shipping flowers all around the globe!&amp;#10;&amp;#10;The 4 days previous to St Valentine's day are really busy in the market, so go to buy expensive but early or cheap but too late the flowers that will fulfill the contracts you've already take. Manage your workers and don't send too much of them to the unemployment queue because they will go on strike! Be careful with your reputation, it will influence on your stock value!&amp;#10;&amp;#10;In this worker placement &amp;amp; management game, you represent a flower businessman that will work with companies trying to raise their stock value the 4 days previous to St Valentine's day.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2019" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="4+">		
+				</results>					
+	</poll> 			               				<playingtime value="90" />
+						               				<minplaytime value="40" />
+						               				<maxplaytime value="90" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link id="1021" type="boardgamecategory" value="Economic" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link id="2040" type="boardgamemechanic" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="2004" type="boardgamemechanic" value="Set Collection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="2079" type="boardgamemechanic" value="Variable Phase Order" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="2082" type="boardgamemechanic" value="Worker Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link id="10309" type="boardgamefamily" value="Country: The Netherlands" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="6393" type="boardgamefamily" value="Flowers" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link id="77002" type="boardgamedesigner" value="Israel Cendrero" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="77173" type="boardgamedesigner" value="Sheila Santos" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link id="30490" type="boardgamepublisher" value="Ediciones Primigenio" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings>
+			<usersrated value="1" />
+			<average value="9" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank bayesaverage="Not Ranked" friendlyname="Board Game Rank" id="1" name="boardgame" type="subtype" value="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="1" />
+			<trading value="0" />
+			<wanting value="1" />
+			<wishing value="20" />
+			<numcomments value="1" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item id="240372" type="boardgame">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/FUjUf1U_oexnmcLvNlhFKR4oq-c=/fit-in/200x150/pic4115447.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/ap7QVncqxFhh2g55v9tx8wWofdc=/0x0/pic4115447.jpg</image>
+                                     				
+				<name sortindex="1" type="primary" value="Newfoundlandia" />
+			
+						                           
+						               													<description>This trivia game is &amp;quot;For those who know Newfoundland and for those who want to know it better.&amp;quot;&amp;#10;&amp;#10;&amp;quot;Newfoundlandia is a cultural experience probing our past and present. Dabble in Viking lore. Recall the Smallwood Era. Saunter through the alleyways of North America's oldest city.&amp;quot;&amp;#10;&amp;#10;The ARTS &amp;amp; CULTURE category tests your knowledge of Newfoundland's life  style, language, music, literature, arts and sports. PEOPLE &amp;amp; POLITICS draws on your knowledge of politics past and present and your ability to recall who's who and who was who in Newfoundland. HISTORY &amp;amp; GEOGRAPHY deals mainly with the events of our past, nomenclature, and general geographic knowledge. The TOWNIE TRIVIA section is designed to test your knowledge of St. John's, past and present.&amp;#10;&amp;#10;Although every culture has its unique features, Newfoundland, to Newfoundlanders, is more than a quaint place. It's home. Newfoundlandia is about our land, our people and our ways. Based on our history, geography, and culture NEWFOUNDLANDIA will provide hours of entertainment for Newfoundlanders at home and abroad.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1986" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="10" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="10+">		
+				</results>					
+	</poll> 			               				<playingtime value="90" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="90" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link id="1027" type="boardgamecategory" value="Trivia" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link id="2035" type="boardgamemechanic" value="Roll / Spin and Move" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link id="12168" type="boardgamepublisher" value="Tudorbrook Products Inc." />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings>
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank bayesaverage="Not Ranked" friendlyname="Board Game Rank" id="1" name="boardgame" type="subtype" value="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="1" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="1" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item id="240382" type="boardgame">
+                                     				
+				<name sortindex="1" type="primary" value="Monopoly: M&#225;laga-Costa del Sol" />
+			
+						                           
+						               													<description>An exclusive edition of Monopoly: Malaga-Costa del Sol&amp;#10;&amp;#10;An extract from the back of the box :- &amp;quot;With the Sun of Andalusia in the background, the Malaga-Costa del Sol edition of MONOPOLY combines some of the most beautiful and emblematic places of this land. &amp;quot;&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2016" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="6+">		
+				</results>					
+	</poll> 			               				<playingtime value="0" />
+						               				<minplaytime value="0" />
+						               				<maxplaytime value="0" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link id="1021" type="boardgamecategory" value="Economic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="1026" type="boardgamecategory" value="Negotiation" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link id="2012" type="boardgamemechanic" value="Auction/Bidding" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="2685" type="boardgamemechanic" value="Player Elimination" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="2035" type="boardgamemechanic" value="Roll / Spin and Move" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="2004" type="boardgamemechanic" value="Set Collection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="2008" type="boardgamemechanic" value="Trading" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link id="10310" type="boardgamefamily" value="Country: Spain" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="100" type="boardgamefamily" value="Monopoly" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link id="51" type="boardgamepublisher" value="Hasbro" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings>
+			<usersrated value="1" />
+			<average value="2" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank bayesaverage="Not Ranked" friendlyname="Board Game Rank" id="1" name="boardgame" type="subtype" value="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="1" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item id="240384" type="boardgame">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/tF5T5XhexPjUsSLqXtYZqGzNbpI=/fit-in/200x150/pic4034011.png</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/yo6iGkdAQmQ0oEQZEgwGgpLG-qs=/0x0/pic4034011.png</image>
+                                     				
+				<name sortindex="1" type="primary" value="Dorix" />
+			
+						                           
+						               													<description>1.Principle&amp;#10;In that game, players will try and control the diagonal of a 4x4 square board. When one stacks an high pile of pawn it may collapse.&amp;#10;2.Components&amp;#10;&amp;ndash; The4x4board&amp;#10;&amp;ndash; 15 pawns in each colour&amp;#10;3.Goal&amp;#10;The winner is the first to have 4 piles he controls on one of the two great diagonal of the board.&amp;#10;In a 4 players game : this is a team game. To win, a team needs to control 4 piles on one of the&amp;#10;two great diagonal of the board.&amp;#10;4.Preparation&amp;#10;In a 2 players game : Each player chooses his colour and get the 15 pawns of this colour. In a 3 players game : Each player chooses his colour and get 12 pawns of this colour.&amp;#10;In a 4 players game : Each player chooses his colour and get 10 pawns of this colour. Each one is playing with the player in front of him.&amp;#10;5.Game sequence&amp;#10;Players take turns to make all the following sequence :&amp;#10;&amp;ndash; place a pawn&amp;#10;&amp;ndash; collapse&amp;#10;&amp;ndash; check winning conditions&amp;#10;Place a pawn&amp;#10;Place a pawn of your colour either on an empty square, either over a pile you control (in a 4 player game, one can not place his pawn over a pile his partner controls).&amp;#10;If one has allready placed all his pawns, he takes one of his pawns at the top of a pile (it may be a 1 pawn pile) and he places it according the placement rule.&amp;#10;If one has allready placed all his pawns but do not control any pile, he pass.&amp;#10;Collapse&amp;#10;When one place a pawn over an existing pile, a collapse may occur : there is a collapse if at least one of the neighbouring piles is smaller than the pile where the player placed his pawn.&amp;#10;If so, he places one pawn of the pile where he played over each smaller neighbouring tile. This is the size before the collapse that you compare.&amp;#10;The player decides which pawn he places on which pile, but he has to take the pawns from the top&amp;#10;Control of a pile&amp;#10;During the game, you will stack the pawns. One control a pile if the pawn at the top of the pile is of his color.&amp;#10;of the pile. If the pile does not have enough pawn (by example, a 2 pawns pile that collapses over 3 piles of 1 pawn each), he places all the pawns of the pile.&amp;#10;Only the pile where you placed your pawn can collapse.&amp;#10;-Check winning conditions&amp;#10;When the collapse is over, check if all the piles of one of the two great diagonal of the board are controlled by the same player. If so, this player wins.&amp;#10;If each player control all the piles of a diagonal the game is not over : you have to play until only one player control one diagonal.&amp;#10;In a 3 players game : If 2 players control one diagonal the game is not over, you have to play until only one controls one diagonal.&amp;#10;In a 4 players game : This is the team that needs to control a diagonal. Some piles may be controlled by a member of the team and the other piles by the other member, or all the piles may be controlled by the same player.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="0" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="4+">		
+				</results>					
+	</poll> 			               				<playingtime value="20" />
+						               				<minplaytime value="5" />
+						               				<maxplaytime value="20" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link id="1009" type="boardgamecategory" value="Abstract Strategy" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link id="47774" type="boardgamedesigner" value="Lo&#239;c Lamy" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link id="3320" type="boardgamepublisher" value="(Unknown)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="1001" type="boardgamepublisher" value="(Web published)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings>
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank bayesaverage="Not Ranked" friendlyname="Board Game Rank" id="1" name="boardgame" type="subtype" value="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="0" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="1" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+<item id="240394" type="boardgame">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/XkuNBerbnTVlsXXs4vWy9My2CsI=/fit-in/200x150/pic3868338.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/X0JQt2yjjqw4Kw_8UcXIJWw04A0=/0x0/pic3868338.jpg</image>
+                                     				
+				<name sortindex="1" type="primary" value="Lord of the Wings: A Bird Trump Game" />
+			
+						                           
+						               													<description>Which has the widest wingspan, a California Condor or a Magnificent Frigatebird? Which lives longest, a Wandering Albatross or an Emperor Penguin?&amp;#10;&amp;#10;This avian trump game rates 32 birds by criteria including Clutch Size, Rarity and Courtship Display. Find out who&amp;rsquo;s first in the pecking order with these beautifully illustrated trump cards.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2017" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="99" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="30+">		
+				</results>					
+	</poll> 			               				<playingtime value="0" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="0" />
+						               				<minage value="6" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link id="1089" type="boardgamecategory" value="Animals" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="1002" type="boardgamecategory" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="1094" type="boardgamecategory" value="Educational" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link id="2041" type="boardgamemechanic" value="Card Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="2047" type="boardgamemechanic" value="Memory" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="2003" type="boardgamemechanic" value="Rock-Paper-Scissors" />
+		
+									
+				
+		 			
+
+			
+		
+					<link id="2009" type="boardgamemechanic" value="Trick-taking" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      			
+
+			      				
+		 			
+
+			
+		
+					<link id="105157" type="boardgameartist" value="Christine Berrie" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link id="25318" type="boardgamepublisher" value="Laurence King Publishing Ltd" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings>
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank bayesaverage="Not Ranked" friendlyname="Board Game Rank" id="1" name="boardgame" type="subtype" value="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="4" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="1" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>
